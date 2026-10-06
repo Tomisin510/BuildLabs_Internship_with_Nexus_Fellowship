@@ -17,17 +17,13 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 15044B,BLUE PAPER PARASOL,946.83,321,60,False,False,False,High sales / low units
 15044C,PURPLE PAPER PARASOL,1022.9900000000001,313,88,False,False,False,High sales / low units
 15044D,RED PAPER PARASOL,1819.76,644,84,False,False,False,High sales / high units
-15056BL,EDWARDIAN PARASOL BLACK,15828.84,2844,321,False,False,False,High sales / high units
-15056N,EDWARDIAN PARASOL NATURAL,22152.690000000002,3950,456,False,False,False,High sales / high units
-15056P,EDWARDIAN PARASOL PINK,4354.92,776,144,False,False,False,High sales / high units
-15056bl,EDWARDIAN PARASOL BLACK,1086.88,87,62,False,False,False,High sales / low units
-15056n,EDWARDIAN PARASOL NATURAL,1585.2800000000002,127,84,False,False,False,High sales / low units
-15056p,EDWARDIAN PARASOL PINK,412.48,33,26,False,False,True,Low sales / low units
+15056BL,EDWARDIAN PARASOL BLACK,16915.72,2931,383,False,False,False,High sales / high units
+15056N,EDWARDIAN PARASOL NATURAL,23737.97,4077,540,False,False,False,High sales / high units
+15056P,EDWARDIAN PARASOL PINK,4767.400000000001,809,170,False,False,False,High sales / high units
 15058A,BLUE POLKADOT GARDEN PARASOL,1668.49,200,89,False,False,False,High sales / low units
 15058B,PINK POLKADOT GARDEN PARASOL,1885.27,228,97,False,False,False,High sales / low units
 15058C,ICE CREAM DESIGN GARDEN PARASOL,1429.82,240,72,False,False,False,High sales / low units
-15060B,FAIRY CAKE DESIGN UMBRELLA,1807.55,451,131,False,False,False,High sales / high units
-15060b,FAIRY CAKE DESIGN UMBRELLA,24.869999999999997,3,3,True,True,True,Low sales / low units
+15060B,FAIRY CAKE DESIGN UMBRELLA,1832.42,454,134,False,False,False,High sales / high units
 16008,SMALL FOLDING SCISSOR(POINTED EDGE),360.71,2892,70,False,False,False,Low sales / high units
 16010,FOLDING CAMPING SCISSOR W/KNIF & S,3.5999999999999996,30,3,True,True,True,Low sales / low units
 16011,ANIMAL STICKERS,367.29,1749,46,False,False,False,Low sales / high units
@@ -53,7 +49,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 16161U,WRAP SUKI AND FRIENDS,1687.5,4075,134,False,False,False,High sales / high units
 16162L,THE KING GIFT BAG,13.0,20,8,False,True,True,Low sales / low units
 16162M,THE KING GIFT BAG 25X24X12CM,11.76,28,8,False,True,True,Low sales / low units
-16168M,FUNKY MONKEY GIFT BAG MEDIUM,173.12,371,41,False,False,False,Low sales / high units
+16168M,FUNKY MONKEY GIFT BAG MEDIUM,173.12,371,41,False,False,False,Low sales / low units
 16169E,WRAP 50'S CHRISTMAS,1892.46,4563,149,False,False,False,High sales / high units
 16169K,WRAP FOLK ART,84.0,200,8,False,True,False,Low sales / low units
 16169M,WRAP DAISY CARPET,277.2,660,25,False,False,False,Low sales / high units
@@ -68,8 +64,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 16216,LETTER SHAPE PENCIL SHARPENER,234.0,3333,45,False,False,False,Low sales / high units
 16218,CARTOON PENCIL SHARPENERS,283.31,3821,64,False,False,False,Low sales / high units
 16219,HOUSE SHAPE PENCIL SHARPENER,407.71999999999997,3048,100,False,False,False,Low sales / high units
-16225,RATTLE SNAKE EGGS,689.35,813,102,False,False,False,High sales / high units
-16235,RECYCLED PENCIL WITH RABBIT ERASER,695.4,3068,168,False,False,False,High sales / high units
+16225,RATTLE SNAKE EGGS,689.35,813,102,False,False,False,Low sales / high units
+16235,RECYCLED PENCIL WITH RABBIT ERASER,695.4,3068,168,False,False,False,Low sales / high units
 16236,KITTY PENCIL ERASERS,320.09,1438,136,False,False,False,Low sales / high units
 16237,SLEEPING CAT ERASERS,1047.93,4991,290,False,False,False,High sales / high units
 16238,PARTY TIME PENCIL ERASERS,321.67,1396,134,False,False,False,Low sales / high units
@@ -115,8 +111,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 18094C,WHITE AND BLUE CERAMIC OIL BURNER,283.93,192,42,False,False,False,Low sales / low units
 18097A,PINK TALL PORCELAIN T-LIGHT HOLDER,12.75,5,4,True,True,True,Low sales / low units
 18097C,WHITE TALL PORCELAIN T-LIGHT HOLDER,1591.01,695,69,False,False,False,High sales / high units
-18098C,PORCELAIN BUTTERFLY OIL BURNER,658.75,213,49,False,False,False,Low sales / low units
-18098c,PORCELAIN BUTTERFLY OIL BURNER,263.12,52,12,False,False,False,Low sales / low units
+18098C,PORCELAIN BUTTERFLY OIL BURNER,921.87,265,61,False,False,False,High sales / low units
 20615,BLUE POLKADOT PASSPORT COVER,466.99,309,95,False,False,False,Low sales / low units
 20616,CHERRY BLOSSOM PASSPORT COVER,243.53,194,71,False,False,False,Low sales / low units
 20617,FIRST CLASS PASSPORT COVER,194.94,93,43,False,False,False,Low sales / low units
@@ -162,13 +157,13 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 20701,PINK CAT FLORAL CUSHION COVER,100.97,25,18,False,False,True,Low sales / low units
 20702,PINK PADDED MOBILE,573.54,134,42,False,False,False,Low sales / low units
 20703,BLUE PADDED SOFT MOBILE,4.25,1,1,True,True,True,Low sales / low units
-20704,MR ROBOT SOFT TOY,697.7,216,44,False,False,False,High sales / low units
+20704,MR ROBOT SOFT TOY,697.7,216,44,False,False,False,Low sales / low units
 20705,MRS ROBOT SOFT TOY,428.85,143,28,False,False,False,Low sales / low units
 20707,CRAZY DAISY HEART DECORATION,468.39,464,149,False,False,False,Low sales / high units
 20711,JUMBO BAG TOYS,11014.62,5007,522,False,False,False,High sales / high units
 20712,JUMBO BAG WOODLAND ANIMALS,22092.42,9773,863,False,False,False,High sales / high units
 20713,JUMBO BAG OWLS,23001.06,11429,657,False,False,False,High sales / high units
-20716,PARTY FOOD SHOPPER BAG,469.63,400,73,False,False,False,Low sales / high units
+20716,PARTY FOOD SHOPPER BAG,469.63,400,73,False,False,False,Low sales / low units
 20717,STRAWBERRY SHOPPER BAG,3561.98,2855,412,False,False,False,High sales / high units
 20718,RED RETROSPOT SHOPPER BAG,6604.29,4769,575,False,False,False,High sales / high units
 20719,WOODLAND CHARLOTTE BAG,16744.45,13290,833,False,False,False,High sales / high units
@@ -186,7 +181,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 20749,ASSORTED COLOUR MINI CASES,12550.57,1762,383,False,False,False,High sales / high units
 20750,RED RETROSPOT MINI CASES,12634.98,1747,385,False,False,False,High sales / high units
 20751,FUNKY WASHING UP GLOVES ASSORTED,2041.5200000000002,971,198,False,False,False,High sales / high units
-20752,BLUE POLKADOT WASHING UP GLOVES,920.45,407,148,False,False,False,High sales / high units
+20752,BLUE POLKADOT WASHING UP GLOVES,920.45,407,148,False,False,False,High sales / low units
 20754,RETROSPOT RED WASHING UP GLOVES,3088.86,1457,304,False,False,False,High sales / high units
 20755,BLUE PAISLEY POCKET BOOK,271.16999999999996,306,62,False,False,False,Low sales / low units
 20756,GREEN FERN POCKET BOOK,53.55,63,22,False,True,False,Low sales / low units
@@ -239,7 +234,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 20835,FRENCH LATTICE CUSHION COVER,65.8,67,8,False,True,False,Low sales / low units
 20836,FRENCH PAISLEY CUSHION COVER,141.1,170,17,False,False,False,Low sales / low units
 20837,FRENCH FLORAL CUSHION COVER,142.47,141,15,False,False,False,Low sales / low units
-20838,FRENCH LATTICE CUSHION COVER,461.45,385,57,False,False,False,Low sales / high units
+20838,FRENCH LATTICE CUSHION COVER,461.45,385,57,False,False,False,Low sales / low units
 20839,FRENCH PAISLEY CUSHION COVER,840.4399999999999,575,105,False,False,False,High sales / high units
 20840,FRENCH FLORAL CUSHION COVER,632.3199999999999,533,74,False,False,False,Low sales / high units
 20845,ZINC HEART LATTICE 2 WALL PLANTER,120.64999999999999,19,11,False,False,True,Low sales / low units
@@ -252,7 +247,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 20857,BLUE ROSE PATCH PURSE PINK BUTTERFL,52.8,32,8,False,True,True,Low sales / low units
 20860,GOLD COSMETICS BAG WITH BUTTERFLY,2.1,1,1,True,True,True,Low sales / low units
 20861,GOLD COSMETIC BAG PINK STAR,4.2,2,2,True,True,True,Low sales / low units
-20866,BLUE ROSE FABRIC MIRROR,709.7,597,90,False,False,False,High sales / high units
+20866,BLUE ROSE FABRIC MIRROR,709.7,597,90,False,False,False,Low sales / high units
 20867,PINK ROSE FABRIC MIRROR,393.46999999999997,331,62,False,False,False,Low sales / low units
 20868,SILVER FABRIC MIRROR,219.35000000000002,458,46,False,False,False,Low sales / high units
 20869,GOLD FABRIC MIRROR,86.76,180,29,False,True,False,Low sales / low units
@@ -265,7 +260,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 20897,VINTAGE NOTEBOOK PARIS DAYS,298.27,107,24,False,False,False,Low sales / low units
 20898,VINTAGE NOTEBOOK TRAVELOGUE,105.73,38,13,False,False,True,Low sales / low units
 20901,VINTAGE KEEPSAKE BOX PINK FLOWER,85.13,19,15,False,True,True,Low sales / low units
-20902,VINTAGE KEEPSAKE BOX PARIS DAYS,686.86,112,56,False,False,False,High sales / low units
+20902,VINTAGE KEEPSAKE BOX PARIS DAYS,686.86,112,56,False,False,False,Low sales / low units
 20903,VINTAGE KEEPSAKE BOX TRAVELOGUE,441.89,82,56,False,False,False,Low sales / low units
 20906,VINTAGE NOTEBOOK BEAUTY GIRL,8.850000000000001,3,2,True,True,True,Low sales / low units
 20910,VINTAGE PHOTO ALBUM PARIS DAYS,50.8,8,3,True,True,True,Low sales / low units
@@ -338,13 +333,13 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21056,DOCTOR'S BAG SOFT TOY,1765.3999999999999,184,72,False,False,False,High sales / low units
 21058,PARTY INVITES WOODLAND,965.66,1154,122,False,False,False,High sales / high units
 21059,PARTY INVITES DINOSAURS,528.2299999999999,611,94,False,False,False,Low sales / high units
-21060,PARTY INVITES BALLOON GIRL,359.28999999999996,405,71,False,False,False,Low sales / high units
+21060,PARTY INVITES BALLOON GIRL,359.28999999999996,405,71,False,False,False,Low sales / low units
 21061,PARTY INVITES FOOTBALL,451.7,488,83,False,False,False,Low sales / high units
 21062,PARTY INVITES SPACEMAN,457.38,538,74,False,False,False,Low sales / high units
 21063,PARTY INVITES JAZZ HEARTS,458.31,528,102,False,False,False,Low sales / high units
 21064,BOOM BOX SPEAKER BOYS,1281.2,296,101,False,False,False,High sales / low units
 21065,BOOM BOX SPEAKER GIRLS,1160.58,562,90,False,False,False,High sales / high units
-21066,VINTAGE RED MUG,693.47,702,54,False,False,False,High sales / high units
+21066,VINTAGE RED MUG,693.47,702,54,False,False,False,Low sales / high units
 21067,VINTAGE RED TEATIME MUG,504.15,317,76,False,False,False,Low sales / low units
 21068,VINTAGE BILLBOARD LOVE/HATE MUG,1890.33,1638,198,False,False,False,High sales / high units
 21069,VINTAGE BILLBOARD TEA MUG,2250.52,1949,86,False,False,False,High sales / high units
@@ -364,7 +359,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21096,SET/6 FRUIT SALAD PAPER PLATES,581.09,1259,105,False,False,False,Low sales / high units
 21098,CHRISTMAS TOILET ROLL,5078.76,3719,248,False,False,False,High sales / high units
 21100,CHARLIE AND LOLA CHARLOTTE BAG,162.20999999999998,65,27,False,False,False,Low sales / low units
-21106,CREAM SLICE FLANNEL CHOCOLATE SPOT,702.51,237,53,False,False,False,High sales / low units
+21106,CREAM SLICE FLANNEL CHOCOLATE SPOT,702.51,237,53,False,False,False,Low sales / low units
 21107,CREAM SLICE FLANNEL PINK SPOT,2492.71,901,97,False,False,False,High sales / high units
 21108,FAIRY CAKE FLANNEL ASSORTED COLOUR,18056.280000000002,10241,262,False,False,False,High sales / high units
 21109,LARGE CAKE TOWEL CHOCOLATE SPOTS,2763.2,936,112,False,False,False,High sales / high units
@@ -389,7 +384,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21135,VICTORIAN METAL POSTCARD SPRING,3206.0,2869,177,False,False,False,High sales / high units
 21136,PAINTED METAL PEARS ASSORTED,7793.139999999999,4687,370,False,False,False,High sales / high units
 21137,BLACK RECORD COVER FRAME,40633.38,11651,375,False,False,False,High sales / high units
-21143,ANTIQUE GLASS HEART DECORATION,707.23,327,36,False,False,False,High sales / low units
+21143,ANTIQUE GLASS HEART DECORATION,707.23,327,36,False,False,False,Low sales / low units
 21144,PINK POODLE HANGING DECORATION,16.8,5,2,True,True,True,Low sales / low units
 21145,ANTIQUE GLASS PLACE SETTING,152.5,122,8,False,False,False,Low sales / low units
 21147,JINGLE BELLS TREE DECORATION,415.77,203,76,False,False,False,Low sales / low units
@@ -402,7 +397,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21160,KEEP OUT GIRLS DOOR HANGER,3.36,1,1,True,True,True,Low sales / low units
 21161,KEEP OUT BOYS DOOR HANGER,229.92,143,43,False,False,False,Low sales / low units
 21162,TOXIC AREA DOOR HANGER,792.98,1462,162,False,False,False,High sales / high units
-21163,DO NOT TOUCH MY STUFF DOOR HANGER,680.55,1196,127,False,False,False,High sales / high units
+21163,DO NOT TOUCH MY STUFF DOOR HANGER,680.55,1196,127,False,False,False,Low sales / high units
 21164,HOME SWEET HOME METAL SIGN,5155.9800000000005,1766,282,False,False,False,High sales / high units
 21165,BEWARE OF THE CAT METAL SIGN,6935.7,4154,449,False,False,False,High sales / high units
 21166,COOK WITH WINE METAL SIGN,20874.440000000002,10324,723,False,False,False,High sales / high units
@@ -434,7 +429,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21205,MULTICOLOUR 3D BALLS GARLAND,677.1899999999999,253,68,False,False,False,Low sales / low units
 21206,STRAWBERRY HONEYCOMB GARLAND,1610.9199999999998,1290,109,False,False,False,High sales / high units
 21207,SKULL AND CROSSBONES GARLAND,1684.85,1067,132,False,False,False,High sales / high units
-21208,PASTEL COLOUR HONEYCOMB FAN,697.77,940,83,False,False,False,High sales / high units
+21208,PASTEL COLOUR HONEYCOMB FAN,697.77,940,83,False,False,False,Low sales / high units
 21209,MULTICOLOUR HONEYCOMB FAN,886.24,1224,89,False,False,False,High sales / high units
 21210,SET OF 72 RETROSPOT PAPER DOILIES,8368.39,5808,453,False,False,False,High sales / high units
 21211,SET OF 72 SKULL PAPER DOILIES,1270.07,883,103,False,False,False,High sales / high units
@@ -485,12 +480,12 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21279,VINTAGE KITCHEN PRINT FRUITS,266.15,85,29,False,False,False,Low sales / low units
 21280,VINTAGE KITCHEN PRINT VEGETABLES,165.75,65,12,False,False,False,Low sales / low units
 21281,VINTAGE KITCHEN PRINT SEAFOOD,129.63,43,14,False,False,True,Low sales / low units
-21284,RETROSPOT CANDLE SMALL,374.49,403,42,False,False,False,Low sales / high units
+21284,RETROSPOT CANDLE SMALL,374.49,403,42,False,False,False,Low sales / low units
 21285,RETROSPOT CANDLE MEDIUM,413.88,365,43,False,False,False,Low sales / low units
 21286,RETROSPOT CANDLE LARGE,362.12,273,30,False,False,False,Low sales / low units
 21287,SCENTED VELVET LOUNGE CANDLE,760.15,1790,55,False,False,False,High sales / high units
 21288,STRIPEY CHOCOLATE NESTING BOXES,1061.41,355,110,False,False,False,High sales / low units
-21289,LARGE STRIPES CHOCOLATE GIFT BAG,708.75,567,49,False,False,False,High sales / high units
+21289,LARGE STRIPES CHOCOLATE GIFT BAG,708.75,567,49,False,False,False,Low sales / high units
 21291,SMALL POLKADOT CHOCOLATE GIFT BAG,819.64,943,52,False,False,False,High sales / high units
 21292,SMALL STRIPES CHOCOLATE GIFT BAG,594.51,867,28,False,False,False,Low sales / high units
 21293,MIRRORED DOVE WALL DECORATION,276.72,116,24,False,False,False,Low sales / low units
@@ -502,7 +497,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21313,GLASS HEART T-LIGHT HOLDER,2893.77,3321,214,False,False,False,High sales / high units
 21314,SMALL GLASS HEART TRINKET POT,9798.980000000001,4246,541,False,False,False,High sales / high units
 21316,SMALL CHUNKY GLASS ROMAN BOWL,214.73000000000002,159,15,False,False,False,Low sales / low units
-21317,GLASS SPHERE CANDLE STAND MEDIUM,684.08,111,34,False,False,False,High sales / low units
+21317,GLASS SPHERE CANDLE STAND MEDIUM,684.08,111,34,False,False,False,Low sales / low units
 21318,GLASS CHALICE BLUE SMALL,421.78,694,49,False,False,False,Low sales / high units
 21319,GLASS CHALICE GREEN SMALL,175.78,161,19,False,False,False,Low sales / low units
 21320,GLASS CHALICE GREEN LARGE,364.22,197,19,False,False,False,Low sales / low units
@@ -520,10 +515,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21348,PINK SPOTS CHOCOLATE NESTING BOXES,361.55999999999995,140,6,False,False,False,Low sales / low units
 21349,IVY HEART WREATH,155.6,18,11,False,False,True,Low sales / low units
 21351,CINAMMON & ORANGE WREATH,672.88,104,34,False,False,False,Low sales / low units
-21352,EUCALYPTUS & PINECONE WREATH,1511.2600000000002,378,77,False,False,False,High sales / high units
+21352,EUCALYPTUS & PINECONE WREATH,1511.2600000000002,378,77,False,False,False,High sales / low units
 21354,TOAST ITS - BEST MUM,1007.71,799,95,False,False,False,High sales / high units
 21355,TOAST ITS - I LOVE YOU,992.58,789,120,False,False,False,High sales / high units
-21356,TOAST ITS - FAIRY FLOWER,703.3,642,151,False,False,False,High sales / high units
+21356,TOAST ITS - FAIRY FLOWER,703.3,642,151,False,False,False,Low sales / high units
 21357,TOAST ITS - DINOSAUR,23.75,19,10,False,True,True,Low sales / low units
 21358,TOAST ITS - HAPPY BIRTHDAY,493.29,411,108,False,False,False,Low sales / high units
 21359,RELAX LARGE WOOD LETTERS,844.28,129,29,False,False,False,High sales / low units
@@ -610,11 +605,11 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21467,CHERRY CROCHET FOOD COVER,1004.39,264,104,False,False,False,High sales / low units
 21468,BUTTERFLY CROCHET FOOD COVER,572.23,148,66,False,False,False,Low sales / low units
 21469,POLKA DOT RAFFIA FOOD COVER,1085.32,290,89,False,False,False,High sales / low units
-21470,FLOWER VINE RAFFIA FOOD COVER,1470.32,381,140,False,False,False,High sales / high units
+21470,FLOWER VINE RAFFIA FOOD COVER,1470.32,381,140,False,False,False,High sales / low units
 21471,STRAWBERRY RAFFIA FOOD COVER,2220.59,639,163,False,False,False,High sales / high units
 21472,LADYBIRD + BEE RAFFIA FOOD COVER,476.41,123,37,False,False,False,Low sales / low units
 21473,SWEETHEART CREAM STEEL TABLE RECT,618.66,27,21,False,False,True,Low sales / low units
-21476,STEEL SWEETHEART ROUND TABLE CREAM,699.63,41,24,False,False,True,High sales / low units
+21476,STEEL SWEETHEART ROUND TABLE CREAM,699.63,41,24,False,False,True,Low sales / low units
 21479,WHITE SKULL HOT WATER BOTTLE,20582.2,3915,499,False,False,False,High sales / high units
 21481,FAWN BLUE HOT WATER BOTTLE,11443.87,3307,490,False,False,False,High sales / high units
 21484,CHICK GREY HOT WATER BOTTLE,8495.42,1871,402,False,False,False,High sales / high units
@@ -644,7 +639,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21530,DAIRY MAID TOASTRACK,769.57,777,104,False,False,False,High sales / high units
 21531,RED RETROSPOT SUGAR JAM BOWL,3682.17,1516,246,False,False,False,High sales / high units
 21533,RETROSPOT LARGE MILK JUG,6651.72,1351,339,False,False,False,High sales / high units
-21534,DAIRY MAID LARGE MILK JUG,1879.18,370,155,False,False,False,High sales / high units
+21534,DAIRY MAID LARGE MILK JUG,1879.18,370,155,False,False,False,High sales / low units
 21535,RED RETROSPOT SMALL MILK JUG,5986.01,2487,343,False,False,False,High sales / high units
 21537,RED RETROSPOT PUDDING BOWL,1387.96,332,61,False,False,False,High sales / low units
 21538,DAIRY MAID PUDDING BOWL,18.75,5,2,True,True,True,Low sales / low units
@@ -680,25 +675,25 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21615,4 LAVENDER BOTANICAL DINNER CANDLES,1347.92,891,135,False,False,False,High sales / high units
 21616,4 PEAR BOTANICAL DINNER CANDLES,1288.34,822,138,False,False,False,High sales / high units
 21617,4 LILY BOTANICAL DINNER CANDLES,1009.26,525,102,False,False,False,High sales / high units
-21618,4 WILDFLOWER BOTANICAL CANDLES,768.37,404,91,False,False,False,High sales / high units
+21618,4 WILDFLOWER BOTANICAL CANDLES,768.37,404,91,False,False,False,High sales / low units
 21619,4 VANILLA BOTANICAL CANDLES,1476.4,974,164,False,False,False,High sales / high units
 21620,SET OF 4 ROSE BOTANICAL CANDLES,1429.49,881,165,False,False,False,High sales / high units
 21621,VINTAGE UNION JACK BUNTING,24525.83,2787,475,False,False,False,High sales / high units
-21622,VINTAGE UNION JACK CUSHION COVER,1982.64,380,104,False,False,False,High sales / high units
+21622,VINTAGE UNION JACK CUSHION COVER,1982.64,380,104,False,False,False,High sales / low units
 21623,VINTAGE UNION JACK MEMOBOARD,22980.239999999998,3269,221,False,False,False,High sales / high units
 21624,VINTAGE UNION JACK DOORSTOP,1331.5600000000002,216,95,False,False,False,High sales / low units
-21625,VINTAGE UNION JACK APRON,2939.51,407,169,False,False,False,High sales / high units
+21625,VINTAGE UNION JACK APRON,2939.51,407,169,False,False,False,High sales / low units
 21626,VINTAGE UNION JACK PENNANT,1584.8,794,99,False,False,False,High sales / high units
 21627,ELEPHANT CARNIVAL POUFFE,1299.83,63,47,False,False,False,High sales / low units
 21628,TRIANGULAR POUFFE VINTAGE,1161.65,63,33,False,False,False,High sales / low units
 21629,SQUARE FLOOR CUSHION VINTAGE RED,672.05,71,42,False,False,False,Low sales / low units
-21630,FLOOR CUSHION ELEPHANT CARNIVAL,718.14,69,35,False,False,False,High sales / low units
+21630,FLOOR CUSHION ELEPHANT CARNIVAL,718.14,69,35,False,False,False,Low sales / low units
 21631,HIPPY CHIC DECORATIVE PARASOL,896.01,169,27,False,False,False,High sales / low units
 21632,VINTAGE PINK DECORATIVE PARASOL,489.74,88,24,False,False,False,Low sales / low units
 21633,SUNFLOWER DECORATIVE PARASOL,895.46,125,42,False,False,False,High sales / low units
 21634,ASSORTED MINI MADRAS NOTEBOOK,481.95,976,28,False,False,False,Low sales / high units
 21635,MADRAS NOTEBOOK LARGE,374.96000000000004,271,16,False,False,False,Low sales / low units
-21636,MADRAS NOTEBOOK MEDIUM,705.16,913,73,False,False,False,High sales / high units
+21636,MADRAS NOTEBOOK MEDIUM,705.16,913,73,False,False,False,Low sales / high units
 21637,ASSORTED SANSKRIT MINI NOTEBOOK,136.25,109,6,False,False,False,Low sales / low units
 21638,ASSORTED TUTTI FRUTTI NOTEBOOK,547.76,247,40,False,False,False,Low sales / low units
 21640,ASSORTED TUTTI FRUTTI FOB NOTEBOOK,633.8299999999999,650,78,False,False,False,Low sales / high units
@@ -708,7 +703,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21644,ASSORTED TUTTI FRUTTI HEART BOX,268.75,215,32,False,False,False,Low sales / low units
 21647,ASSORTED TUTTI FRUTTI LARGE PURSE,224.70000000000002,107,25,False,False,False,Low sales / low units
 21648,ASSORTED TUTTI FRUTTI SMALL PURSE,982.79,729,66,False,False,False,High sales / high units
-21650,ASSORTED TUTTI FRUTTI BRACELET,692.85,2550,132,False,False,False,High sales / high units
+21650,ASSORTED TUTTI FRUTTI BRACELET,692.85,2550,132,False,False,False,Low sales / high units
 21651,HANGING GLASS ETCHED TEALIGHT,198.57,127,11,False,False,False,Low sales / low units
 21654,RIDGED GLASS FINGER BOWL,504.68,974,59,False,False,False,Low sales / high units
 21655,HANGING RIDGE GLASS T-LIGHT HOLDER,60.84,36,2,True,True,True,Low sales / low units
@@ -766,7 +761,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21720,CAKE SHOP STICKER SHEET,48.449999999999996,57,8,False,True,False,Low sales / low units
 21721,CANDY SHOP STICKER SHEET,179.45999999999998,195,33,False,False,False,Low sales / low units
 21722,SWEET PUDDING STICKER SHEET,95.52999999999999,98,36,False,True,False,Low sales / low units
-21723,ALPHABET HEARTS STICKER SHEET,350.08,397,59,False,False,False,Low sales / high units
+21723,ALPHABET HEARTS STICKER SHEET,350.08,397,59,False,False,False,Low sales / low units
 21724,PANDA AND BUNNIES STICKER SHEET,355.83,408,81,False,False,False,Low sales / high units
 21725,SWEETIES STICKERS,277.24,301,50,False,False,False,Low sales / low units
 21726,MULTI HEARTS STICKERS,204.69,237,42,False,False,False,Low sales / low units
@@ -776,7 +771,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21735,TWO DOOR CURIO CABINET,2577.45,212,83,False,False,False,High sales / low units
 21736,GOLD SCROLL GLASS T-LIGHT HOLDER,137.22000000000003,80,5,True,False,False,Low sales / low units
 21738,COSY SLIPPER SHOES SMALL RED,144.58,46,21,False,False,True,Low sales / low units
-21739,COSY SLIPPER SHOES SMALL GREEN,703.08,254,111,False,False,False,High sales / low units
+21739,COSY SLIPPER SHOES SMALL GREEN,703.08,254,111,False,False,False,Low sales / low units
 21741,COSY SLIPPER SHOES LARGE GREEN,480.1700000000001,147,40,False,False,False,Low sales / low units
 21742,LARGE ROUND WICKER PLATTER,1167.58,194,91,False,False,False,High sales / low units
 21743,STAR PORTABLE TABLE LIGHT,887.6500000000001,299,49,False,False,False,High sales / low units
@@ -797,7 +792,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21770,OPEN CLOSED METAL SIGN,7923.93,1638,388,False,False,False,High sales / high units
 21773,DECORATIVE ROSE BATHROOM BOTTLE,1154.17,1170,163,False,False,False,High sales / high units
 21774,DECORATIVE CATS BATHROOM BOTTLE,1152.4,1095,186,False,False,False,High sales / high units
-21775,DECORATIVE FLORE BATHROOM BOTTLE,716.86,515,139,False,False,False,High sales / high units
+21775,DECORATIVE FLORE BATHROOM BOTTLE,716.86,515,139,False,False,False,Low sales / high units
 21777,RECIPE BOX WITH METAL HEART,95.4,12,6,False,True,True,Low sales / low units
 21781,MA CAMPAGNE CUTLERY BOX,2661.7999999999997,168,101,False,False,False,High sales / low units
 21784,SHOE SHINE BOX,633.0699999999999,57,44,False,False,False,Low sales / low units
@@ -820,7 +815,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21809,CHRISTMAS HANGING TREE WITH BELL,1117.92,1964,117,False,False,False,High sales / high units
 21810,CHRISTMAS HANGING STAR WITH BELL,2981.8399999999997,5840,252,False,False,False,High sales / high units
 21811,HANGING HEART WITH BELL,2682.4,4850,245,False,False,False,High sales / high units
-21812,GARLAND WITH HEARTS AND BELLS,1746.27,393,100,False,False,False,High sales / high units
+21812,GARLAND WITH HEARTS AND BELLS,1746.27,393,100,False,False,False,High sales / low units
 21813,GARLAND WITH STARS AND BELLS,2280.4700000000003,549,112,False,False,False,High sales / high units
 21814,HEART T-LIGHT HOLDER,111.77,74,15,False,False,False,Low sales / low units
 21815,STAR T-LIGHT HOLDER,270.22999999999996,158,29,False,False,False,Low sales / low units
@@ -879,7 +874,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21894,POTTING SHED SEED ENVELOPES,902.08,592,130,False,False,False,High sales / high units
 21895,POTTING SHED SOW 'N' GROW SET,12.72,2,2,True,True,True,Low sales / low units
 21896,POTTING SHED TWINE,2272.79,980,110,False,False,False,High sales / high units
-21897,POTTING SHED CANDLE CITRONELLA,1268.1899999999998,405,3,True,False,False,High sales / high units
+21897,POTTING SHED CANDLE CITRONELLA,1268.1899999999998,405,3,True,False,False,High sales / low units
 21898,POTTING SHED ROSE CANDLE,1541.11,493,25,False,False,False,High sales / high units
 21899,GARAGE KEY FOB,1757.97,2679,278,False,False,False,High sales / high units
 21900,"KEY FOB , SHED",2197.17,3228,372,False,False,False,High sales / high units
@@ -894,14 +889,14 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 21910,WAY OUT METAL SIGN,59.39999999999999,36,8,False,True,True,Low sales / low units
 21911,GARDEN METAL SIGN,203.20999999999998,114,29,False,False,False,Low sales / low units
 21912,VINTAGE SNAKES & LADDERS,7047.7,1786,396,False,False,False,High sales / high units
-21913,VINTAGE SEASIDE JIGSAW PUZZLES,1565.83,398,148,False,False,False,High sales / high units
+21913,VINTAGE SEASIDE JIGSAW PUZZLES,1565.83,398,148,False,False,False,High sales / low units
 21914,BLUE HARMONICA IN BOX,10339.81,7876,603,False,False,False,High sales / high units
 21915,RED HARMONICA IN BOX,26294.08,21903,661,False,False,False,High sales / high units
 21916,SET 12 RETRO WHITE CHALK STICKS,1973.49,4599,359,False,False,False,High sales / high units
 21917,SET 12 KIDS WHITE CHALK STICKS,1701.93,4151,225,False,False,False,High sales / high units
 21918,SET 12 KIDS COLOUR CHALK STICKS,2950.25,7199,369,False,False,False,High sales / high units
 21922,UNION STRIPE WITH FRINGE HAMMOCK,6944.360000000001,898,208,False,False,False,High sales / high units
-21925,UNION STRIPE CUSHION COVER,503.75,403,65,False,False,False,Low sales / high units
+21925,UNION STRIPE CUSHION COVER,503.75,403,65,False,False,False,Low sales / low units
 21926,RED/CREAM STRIPE CUSHION COVER,509.9,414,60,False,False,False,Low sales / high units
 21927,BLUE/CREAM STRIPE CUSHION COVER,771.15,623,99,False,False,False,High sales / high units
 21928,JUMBO BAG SCANDINAVIAN BLUE PAISLEY,21144.41,10468,806,False,False,False,High sales / high units
@@ -949,7 +944,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22023,EMPIRE BIRTHDAY CARD,538.72,1206,146,False,False,False,Low sales / high units
 22024,RAINY LADIES BIRTHDAY CARD,1023.73,2406,213,False,False,False,High sales / high units
 22025,RING OF ROSES BIRTHDAY CARD,761.05,1835,130,False,False,False,High sales / high units
-22026,BANQUET BIRTHDAY CARD,712.08,1644,160,False,False,False,High sales / high units
+22026,BANQUET BIRTHDAY CARD,712.08,1644,160,False,False,False,Low sales / high units
 22027,TEA PARTY BIRTHDAY CARD,1873.71,4368,362,False,False,False,High sales / high units
 22028,PENNY FARTHING BIRTHDAY CARD,1304.1399999999999,3042,262,False,False,False,High sales / high units
 22029,SPACEBOY BIRTHDAY CARD,3387.5699999999997,8161,527,False,False,False,High sales / high units
@@ -964,7 +959,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22039,BOTANICAL LILY GIFT WRAP,105.0,250,7,False,False,False,Low sales / low units
 22040,BOTANICAL ROSE GIFT WRAP,304.5,725,28,False,False,False,Low sales / high units
 22041,"RECORD FRAME 7"" SINGLE SIZE",11354.56,4374,361,False,False,False,High sales / high units
-22042,CHRISTMAS CARD SINGING ANGEL,168.33,399,39,False,False,False,Low sales / high units
+22042,CHRISTMAS CARD SINGING ANGEL,168.33,399,39,False,False,False,Low sales / low units
 22043,CHRISTMAS CARD SCREEN PRINT,304.5,1238,64,False,False,False,Low sales / high units
 22044,CHRISTMAS CARD STACK OF PRESENTS,196.44,816,36,False,False,False,Low sales / high units
 22045,SPACEBOY GIFT WRAP,2673.34,6527,208,False,False,False,High sales / high units
@@ -1044,7 +1039,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22123,PING MICROWAVE APRON,1068.3799999999999,508,122,False,False,False,High sales / high units
 22124,SET OF 2 TEA TOWELS PING MICROWAVE,306.16,149,76,False,False,False,Low sales / low units
 22125,UNION JACK HOT WATER BOTTLE,139.86,13,3,True,False,True,Low sales / low units
-22127,PARTY CONES CARNIVAL ASSORTED,504.88,404,22,False,False,False,Low sales / high units
+22127,PARTY CONES CARNIVAL ASSORTED,504.88,404,22,False,False,False,Low sales / low units
 22128,PARTY CONES CANDY ASSORTED,2127.53,1762,76,False,False,False,High sales / high units
 22129,PARTY CONES CANDY DECORATION,1226.4199999999998,1188,100,False,False,False,High sales / high units
 22130,PARTY CONE CHRISTMAS DECORATION,2664.6299999999997,2277,110,False,False,False,High sales / high units
@@ -1053,7 +1048,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22133,PINK LOVE HEART SHAPE CUP,770.73,816,133,False,False,False,High sales / high units
 22134,MINI LADLE LOVE HEART RED,419.0,889,162,False,False,False,Low sales / high units
 22135,MINI LADLE LOVE HEART PINK,322.38,567,179,False,False,False,Low sales / high units
-22136,LOVE HEART SOCK HANGER,679.28,378,84,False,False,False,Low sales / high units
+22136,LOVE HEART SOCK HANGER,679.28,378,84,False,False,False,Low sales / low units
 22137,BATHROOM SET LOVE HEART DESIGN,237.98000000000002,82,14,False,False,False,Low sales / low units
 22138,BAKING SET 9 PIECE RETROSPOT,24185.27,4937,934,False,False,False,High sales / high units
 22139,RETROSPOT TEA SET CERAMIC 11 PC,22868.260000000002,4518,962,False,False,False,High sales / high units
@@ -1093,7 +1088,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22179,SET 10 NIGHT OWL LIGHTS,7226.2,966,289,False,False,False,High sales / high units
 22180,RETROSPOT LAMP,3521.54,330,155,False,False,False,High sales / low units
 22181,SNOWSTORM PHOTO FRAME FRIDGE MAGNET,500.90999999999997,591,57,False,False,False,Low sales / high units
-22182,CAKE STAND VICTORIAN FILIGREE SMALL,1420.58,372,122,False,False,False,High sales / high units
+22182,CAKE STAND VICTORIAN FILIGREE SMALL,1420.58,372,122,False,False,False,High sales / low units
 22183,CAKE STAND VICTORIAN FILIGREE MED,1916.01,322,129,False,False,False,High sales / low units
 22184,CAKE STAND VICTORIAN FILIGREE LARGE,471.86,56,35,False,False,False,Low sales / low units
 22185,SLATE TILE NATURAL HANGING,2235.9399999999996,1472,162,False,False,False,High sales / high units
@@ -1111,10 +1106,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22197,POPCORN HOLDER,51334.47,56898,1392,False,False,False,High sales / high units
 22198,LARGE POPCORN HOLDER,1870.9099999999999,1025,86,False,False,False,High sales / high units
 22199,FRYING PAN RED RETROSPOT,1926.59,467,167,False,False,False,High sales / high units
-22200,FRYING PAN PINK POLKADOT,1809.48,398,140,False,False,False,High sales / high units
-22201,FRYING PAN BLUE POLKADOT,716.8,193,87,False,False,False,High sales / low units
+22200,FRYING PAN PINK POLKADOT,1809.48,398,140,False,False,False,High sales / low units
+22201,FRYING PAN BLUE POLKADOT,716.8,193,87,False,False,False,Low sales / low units
 22202,MILK PAN PINK POLKADOT,319.35,64,37,False,False,False,Low sales / low units
-22203,MILK PAN RED RETROSPOT,1483.13,403,145,False,False,False,High sales / high units
+22203,MILK PAN RED RETROSPOT,1483.13,403,145,False,False,False,High sales / low units
 22204,MILK PAN BLUE POLKADOT,669.54,197,79,False,False,False,Low sales / low units
 22206,"MUG , DOTCOMGIFTSHOP.COM",4.17,5,5,True,True,True,Low sales / low units
 22207,FRYING PAN UNION FLAG,5833.59,1333,208,False,False,False,High sales / high units
@@ -1157,7 +1152,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22254,FELT TOADSTOOL LARGE,836.8000000000001,657,61,False,False,False,High sales / high units
 22255,FELT TOADSTOOL SMALL,602.63,629,77,False,False,False,Low sales / high units
 22256,FELT FARM ANIMAL CHICKEN,387.9,286,50,False,False,False,Low sales / low units
-22257,FELT FARM ANIMAL SHEEP,280.42,373,42,False,False,False,Low sales / high units
+22257,FELT FARM ANIMAL SHEEP,280.42,373,42,False,False,False,Low sales / low units
 22258,FELT FARM ANIMAL RABBIT,743.89,912,77,False,False,False,High sales / high units
 22259,FELT FARM ANIMAL HEN,332.84,481,44,False,False,False,Low sales / high units
 22260,FELT EGG COSY BLUE RABBIT,577.4399999999999,552,104,False,False,False,Low sales / high units
@@ -1178,7 +1173,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22275,WEEKEND BAG VINTAGE ROSE PAISLEY,527.85,69,1,True,False,False,Low sales / low units
 22276,WASH BAG VINTAGE ROSE PAISLEY,838.86,290,85,False,False,False,High sales / low units
 22277,COSMETIC BAG VINTAGE ROSE PAISLEY,897.74,417,100,False,False,False,High sales / high units
-22278,OVERNIGHT BAG VINTAGE ROSE PAISLEY,2704.35,405,178,False,False,False,High sales / high units
+22278,OVERNIGHT BAG VINTAGE ROSE PAISLEY,2704.35,405,178,False,False,False,High sales / low units
 22279,POCKET BAG BLUE PAISLEY RED SPOT,1003.4,831,128,False,False,False,High sales / high units
 22280,POCKET BAG PINK PAISELY BROWN SPOT,509.59,468,95,False,False,False,Low sales / high units
 22281,EASTER TREE YELLOW BIRDS,929.44,131,63,False,False,False,High sales / low units
@@ -1187,7 +1182,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22284,HEN HOUSE DECORATION,1597.0699999999997,927,131,False,False,False,High sales / high units
 22285,HANGING HEN ON NEST DECORATION,1493.2499999999998,870,120,False,False,False,High sales / high units
 22286,DECORATION WOBBLY RABBIT METAL,1022.4899999999999,1123,115,False,False,False,High sales / high units
-22287,DECORATION WOBBLY CHICKEN,716.8599999999999,794,80,False,False,False,High sales / high units
+22287,DECORATION WOBBLY CHICKEN,716.8599999999999,794,80,False,False,False,Low sales / high units
 22288,HANGING METAL RABBIT DECORATION,616.95,474,58,False,False,False,Low sales / high units
 22289,HANGING METAL CHICKEN DECORATION,193.52,148,34,False,False,False,Low sales / low units
 22291,HANGING CHICK CREAM DECORATION,1906.02,1289,120,False,False,False,High sales / high units
@@ -1222,7 +1217,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22321,BIRD DECORATION RED RETROSPOT,860.93,893,132,False,False,False,High sales / high units
 22322,BIRD DECORATION GREEN POLKADOT,747.81,820,139,False,False,False,High sales / high units
 22323,PINK POLKADOT KIDS BAG,1.95,1,1,True,True,True,Low sales / low units
-22324,BLUE POLKADOT KIDS BAG,688.3,286,74,False,False,False,High sales / low units
+22324,BLUE POLKADOT KIDS BAG,688.3,286,74,False,False,False,Low sales / low units
 22325,MOBILE VINTAGE HEARTS,1146.3500000000001,249,93,False,False,False,High sales / low units
 22326,ROUND SNACK BOXES SET OF4 WOODLAND,24364.870000000003,8535,732,False,False,False,High sales / high units
 22327,ROUND SNACK BOXES SET OF 4 SKULLS,4304.25,1167,287,False,False,False,High sales / high units
@@ -1236,7 +1231,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22336,DOVE DECORATION PAINTED ZINC,754.0300000000001,2381,79,False,False,False,High sales / high units
 22337,ANGEL DECORATION PAINTED ZINC,574.5400000000001,912,77,False,False,False,Low sales / high units
 22338,STAR DECORATION PAINTED ZINC,1233.91,4679,180,False,False,False,High sales / high units
-22339,CHRISTMAS TREE PAINTED ZINC,683.3100000000001,2468,83,False,False,False,High sales / high units
+22339,CHRISTMAS TREE PAINTED ZINC,683.3100000000001,2468,83,False,False,False,Low sales / high units
 22340,NOEL GARLAND PAINTED ZINC,787.2099999999999,1398,128,False,False,False,High sales / high units
 22341,LOVE GARLAND PAINTED ZINC,827.6299999999999,453,78,False,False,False,High sales / high units
 22342,HOME GARLAND PAINTED ZINC,1111.58,997,128,False,False,False,High sales / high units
@@ -1290,8 +1285,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22399,MAGNETS PACK OF 4 CHILDHOOD MEMORY,1347.08,1152,98,False,False,False,High sales / high units
 22400,MAGNETS PACK OF 4 HOME SWEET HOME,729.09,1393,150,False,False,False,High sales / high units
 22402,MAGNETS PACK OF 4 VINTAGE COLLAGE,1033.16,1719,151,False,False,False,High sales / high units
-22403,MAGNETS PACK OF 4 VINTAGE LABELS,689.28,1322,125,False,False,False,High sales / high units
-22405,MONEY BOX POCKET MONEY DESIGN,415.36,372,70,False,False,False,Low sales / high units
+22403,MAGNETS PACK OF 4 VINTAGE LABELS,689.28,1322,125,False,False,False,Low sales / high units
+22405,MONEY BOX POCKET MONEY DESIGN,415.36,372,70,False,False,False,Low sales / low units
 22406,MONEY BOX KINGS CHOICE DESIGN,403.46,346,84,False,False,False,Low sales / low units
 22407,MONEY BOX FIRST ADE DESIGN,99.28,94,24,False,True,False,Low sales / low units
 22408,MONEY BOX CONFECTIONERY DESIGN,162.44,145,29,False,False,False,Low sales / low units
@@ -1344,7 +1339,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22456,NATURAL SLATE CHALKBOARD LARGE,9534.67,1727,476,False,False,False,High sales / high units
 22457,NATURAL SLATE HEART CHALKBOARD,27991.61,9119,1249,False,False,False,High sales / high units
 22458,CAST IRON HOOK GARDEN FORK,1421.83,523,23,False,False,False,High sales / high units
-22459,CAST IRON HOOK GARDEN TROWEL,1018.19,386,25,False,False,False,High sales / high units
+22459,CAST IRON HOOK GARDEN TROWEL,1018.19,386,25,False,False,False,High sales / low units
 22460,EMBOSSED GLASS TEALIGHT HOLDER,3273.5,2546,211,False,False,False,High sales / high units
 22461,SAVOY ART DECO CLOCK,1453.5800000000002,239,53,False,False,False,High sales / low units
 22464,HANGING METAL HEART LANTERN,5485.629999999999,3402,351,False,False,False,High sales / high units
@@ -1394,7 +1389,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22511,RETROSPOT BABUSHKA DOORSTOP,495.2,251,54,False,False,False,Low sales / low units
 22512,DOORSTOP RACING CAR DESIGN,269.71,122,37,False,False,False,Low sales / low units
 22513,DOORSTOP FOOTBALL DESIGN,539.9,152,67,False,False,False,Low sales / low units
-22514,CHILDS GARDEN SPADE BLUE,704.45,302,99,False,False,False,High sales / low units
+22514,CHILDS GARDEN SPADE BLUE,704.45,302,99,False,False,False,Low sales / low units
 22515,CHILDS GARDEN SPADE PINK,608.95,266,84,False,False,False,Low sales / low units
 22516,CHILDS GARDEN RAKE BLUE,494.89000000000004,206,62,False,False,False,Low sales / low units
 22517,CHILDS GARDEN RAKE PINK,447.63000000000005,199,69,False,False,False,Low sales / low units
@@ -1417,7 +1412,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22535,MAGIC DRAWING SLATE BUNNIES,669.75,1763,134,False,False,False,Low sales / high units
 22536,MAGIC DRAWING SLATE PURDEY,1803.95,4752,156,False,False,False,High sales / high units
 22537,MAGIC DRAWING SLATE DINOSAUR,844.0,1929,171,False,False,False,High sales / high units
-22538,MINI JIGSAW GO TO THE FAIR,164.42000000000002,402,40,False,False,False,Low sales / high units
+22538,MINI JIGSAW GO TO THE FAIR,164.42000000000002,402,40,False,False,False,Low sales / low units
 22539,MINI JIGSAW DOLLY GIRL,1129.32,2918,136,False,False,False,High sales / high units
 22540,MINI JIGSAW CIRCUS PARADE,960.86,2519,91,False,False,False,High sales / high units
 22541,MINI JIGSAW LEAP FROG,201.95,503,35,False,False,False,Low sales / high units
@@ -1466,7 +1461,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22586,FELTCRAFT HAIRBAND PINK AND BLUE,774.55,856,161,False,False,False,High sales / high units
 22587,FELTCRAFT HAIRBAND RED AND BLUE,830.52,918,161,False,False,False,High sales / high units
 22588,CARD HOLDER GINGHAM HEART,2141.32,684,175,False,False,False,High sales / high units
-22589,CARDHOLDER GINGHAM STAR,1212.82,379,79,False,False,False,High sales / high units
+22589,CARDHOLDER GINGHAM STAR,1212.82,379,79,False,False,False,High sales / low units
 22591,CARDHOLDER GINGHAM CHRISTMAS TREE,1509.41,413,86,False,False,False,High sales / high units
 22592,CARDHOLDER HOLLY WREATH METAL,3021.12,658,135,False,False,False,High sales / high units
 22593,CHRISTMAS GINGHAM STAR,2085.64,2263,198,False,False,False,High sales / high units
@@ -1563,7 +1558,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22688,DOORMAT PEACE ON EARTH BLUE,3519.6600000000003,705,32,False,False,False,High sales / high units
 22689,DOORMAT MERRY CHRISTMAS RED,5176.25,673,146,False,False,False,High sales / high units
 22690,DOORMAT HOME SWEET HOME BLUE,9943.7,1619,285,False,False,False,High sales / high units
-22691,DOORMAT WELCOME SUNRISE,2678.77,371,120,False,False,False,High sales / high units
+22691,DOORMAT WELCOME SUNRISE,2678.77,371,120,False,False,False,High sales / low units
 22692,DOORMAT WELCOME TO OUR HOME,11539.06,1522,443,False,False,False,High sales / high units
 22693,GROW A FLYTRAP OR SUNFLOWER IN TIN,17927.45,16244,305,False,False,False,High sales / high units
 22694,WICKER STAR,4251.72,1842,405,False,False,False,High sales / high units
@@ -1590,7 +1585,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22715,CARD WEDDING DAY,645.64,1543,130,False,False,False,Low sales / high units
 22716,CARD CIRCUS PARADE,1360.91,3201,288,False,False,False,High sales / high units
 22717,CARD DOG AND BALL,535.78,1229,131,False,False,False,Low sales / high units
-22718,CARD CAT AND TREE,717.23,1633,168,False,False,False,High sales / high units
+22718,CARD CAT AND TREE,717.23,1633,168,False,False,False,Low sales / high units
 22719,GUMBALL MONOCHROME COAT RACK,895.72,620,109,False,False,False,High sales / high units
 22720,SET OF 3 CAKE TINS PANTRY DESIGN,38108.89,7483,1385,False,False,False,High sales / high units
 22721,SET OF 3 CAKE TINS SKETCHBOOK,4671.81,1020,297,False,False,False,High sales / high units
@@ -1718,7 +1713,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22848,BREAD BIN DINER STYLE PINK,5208.45,323,128,False,False,False,High sales / low units
 22849,BREAD BIN DINER STYLE MINT,5027.73,323,129,False,False,False,High sales / low units
 22851,SET 20 NAPKINS FAIRY CAKES DESIGN,2368.64,2741,350,False,False,False,High sales / high units
-22852,DOG BOWL VINTAGE CREAM,1757.8799999999999,390,125,False,False,False,High sales / high units
+22852,DOG BOWL VINTAGE CREAM,1757.8799999999999,390,125,False,False,False,High sales / low units
 22853,CAT BOWL VINTAGE CREAM,1655.96,472,116,False,False,False,High sales / high units
 22854,CREAM SWEETHEART EGG HOLDER,3708.52,767,161,False,False,False,High sales / high units
 22855,FINE WICKER HEART,3301.73,2642,237,False,False,False,High sales / high units
@@ -1755,7 +1750,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22887,NUMBER TILE VINTAGE FONT 8,126.78,78,23,False,False,False,Low sales / low units
 22888,NUMBER TILE VINTAGE FONT 9,124.97999999999999,76,21,False,False,False,Low sales / low units
 22889,NUMBER TILE VINTAGE FONT NO,263.8,169,33,False,False,False,Low sales / low units
-22890,NOVELTY BISCUITS CAKE STAND 3 TIER,3939.87,385,165,False,False,False,High sales / high units
+22890,NOVELTY BISCUITS CAKE STAND 3 TIER,3939.87,385,165,False,False,False,High sales / low units
 22891,TEA FOR ONE POLKADOT,2108.18,420,168,False,False,False,High sales / high units
 22892,SET OF SALT AND PEPPER TOADSTOOLS,3021.6,2472,199,False,False,False,High sales / high units
 22893,MINI CAKE STAND T-LIGHT HOLDER,931.02,1872,142,False,False,False,High sales / high units
@@ -1844,7 +1839,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 22978,PANTRY ROLLING PIN,9564.98,2464,238,False,False,False,High sales / high units
 22979,PANTRY WASHING UP BRUSH,6391.82,4090,381,False,False,False,High sales / high units
 22980,PANTRY SCRUBBING BRUSH,3910.0099999999998,2363,291,False,False,False,High sales / high units
-22981,PANTRY APPLE CORER,704.13,471,105,False,False,False,High sales / high units
+22981,PANTRY APPLE CORER,704.13,471,105,False,False,False,Low sales / high units
 22982,PANTRY PASTRY BRUSH,1543.77,1154,212,False,False,False,High sales / high units
 22983,CARD BILLBOARD FONT,2256.56,5290,443,False,False,False,High sales / high units
 22984,CARD GINGHAM ROSE,1096.09,2693,163,False,False,False,High sales / high units
@@ -1902,7 +1897,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23039,T-LIGHT HOLDER SILVER HEART HANDLE,399.71,199,28,False,False,False,Low sales / low units
 23040,PAPER LANTERN 9 POINT SNOW STAR,1394.03,253,41,False,False,False,High sales / low units
 23041,PAPER LANTERN 9 POINT SNOW STAR,1178.48,272,54,False,False,False,High sales / low units
-23042,PAPER LANTERN 7 POINT SNOW STAR,711.51,103,28,False,False,False,High sales / low units
+23042,PAPER LANTERN 7 POINT SNOW STAR,711.51,103,28,False,False,False,Low sales / low units
 23043,PAPER LANTERN 9 POINT HOLLY STAR L,543.51,81,23,False,False,False,Low sales / low units
 23044,PAPER LANTERN 9 POINT HOLLY STAR S,423.29,101,25,False,False,False,Low sales / low units
 23045,PAPER LANTERN 5 POINT STAR MOON,497.9800000000001,118,25,False,False,False,Low sales / low units
@@ -1927,7 +1922,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23067,HANGING ENGRAVED METAL HEART,1236.66,294,78,False,False,False,High sales / low units
 23068,ALUMINIUM STAMPED HEART,1966.93,809,136,False,False,False,High sales / high units
 23069,EDWARDIAN PHOTO FRAME,556.21,88,32,False,False,False,Low sales / low units
-23070,EDWARDIAN HEART PHOTO FRAME,709.5400000000001,160,44,False,False,False,High sales / low units
+23070,EDWARDIAN HEART PHOTO FRAME,709.5400000000001,160,44,False,False,False,Low sales / low units
 23071,MARIE ANTOINETTE TRINKET BOX GOLD,1205.1,315,19,False,False,False,High sales / low units
 23072,MARIE ANTOINETTE TRINKET BOX SILVER,1273.76,334,30,False,False,False,High sales / low units
 23073,GEORGIAN TRINKET BOX,1706.5,143,61,False,False,False,High sales / low units
@@ -1942,7 +1937,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23082,SET 6 PAPER TABLE LANTERN HEARTS,8558.76,2328,297,False,False,False,High sales / high units
 23083,SET 6 PAPER TABLE LANTERN STARS,7250.900000000001,1932,246,False,False,False,High sales / high units
 23084,RABBIT NIGHT LIGHT,66870.03,30739,994,False,False,False,High sales / high units
-23085,ANTIQUE SILVER BAUBLE LAMP,3583.23,376,78,False,False,False,High sales / high units
+23085,ANTIQUE SILVER BAUBLE LAMP,3583.23,376,78,False,False,False,High sales / low units
 23086,ZINC STAR T-LIGHT HOLDER,1451.43,1225,47,False,False,False,High sales / high units
 23087,ZINC HEART T-LIGHT HOLDER,1090.66,868,69,False,False,False,High sales / high units
 23088,ZINC HEART FLOWER T-LIGHT HOLDER,1033.28,795,79,False,False,False,High sales / high units
@@ -1973,7 +1968,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23117,POPPY FIELDS CHOPPING BOARD,501.23,93,45,False,False,False,Low sales / low units
 23118,PARISIENNE JEWELLERY DRAWER,6102.18,813,258,False,False,False,High sales / high units
 23119,PACK OF 6 LARGE FRUIT STRAWS,1401.7,2282,151,False,False,False,High sales / high units
-23120,PACK OF 6 SMALL FRUIT STRAWS,682.39,1685,100,False,False,False,High sales / high units
+23120,PACK OF 6 SMALL FRUIT STRAWS,682.39,1685,100,False,False,False,Low sales / high units
 23121,PACK OF 6 COCKTAIL PARASOL STRAWS,1000.4399999999999,2501,111,False,False,False,High sales / high units
 23122,PARTY CHARMS 50 PIECES,1726.09,2251,133,False,False,False,High sales / high units
 23123,COCKTAIL SWORDS 50 PIECES,759.5699999999999,935,95,False,False,False,High sales / high units
@@ -2040,7 +2035,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23184,BULL DOG BOTTLE OPENER,4764.5,874,264,False,False,False,High sales / high units
 23185,FRENCH STYLE STORAGE JAR JAM,114.85,317,30,False,False,False,Low sales / low units
 23186,FRENCH STYLE STORAGE JAR CAFE,819.4599999999999,1982,70,False,False,False,High sales / high units
-23187,FRENCH STYLE STORAGE JAR BONBONS,695.06,2338,74,False,False,False,High sales / high units
+23187,FRENCH STYLE STORAGE JAR BONBONS,695.06,2338,74,False,False,False,Low sales / high units
 23188,VINTAGE 2 METER FOLDING RULER,6447.7699999999995,3471,333,False,False,False,High sales / high units
 23189,SET OF 12 FORK CANDLES,3507.51,1249,141,False,False,False,High sales / high units
 23190,BUNDLE OF 3 SCHOOL EXERCISE BOOKS,2761.8999999999996,1702,202,False,False,False,High sales / high units
@@ -2070,11 +2065,11 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23215,JINGLE BELL HEART ANTIQUE SILVER,7038.400000000001,3564,210,False,False,False,High sales / high units
 23216,LAUREL HEART ANTIQUE GOLD,630.73,525,44,False,False,False,Low sales / high units
 23217,LAUREL HEART ANTIQUE SILVER,1613.82,1309,97,False,False,False,High sales / high units
-23218,LAUREL STAR ANTIQUE GOLD,483.03,379,40,False,False,False,Low sales / high units
+23218,LAUREL STAR ANTIQUE GOLD,483.03,379,40,False,False,False,Low sales / low units
 23219,LAUREL STAR ANTIQUE SILVER,568.6,430,61,False,False,False,Low sales / high units
 23220,REINDEER HEART DECORATION GOLD,869.15,993,103,False,False,False,High sales / high units
 23221,REINDEER HEART DECORATION SILVER,1363.04,1536,145,False,False,False,High sales / high units
-23222,CHRISTMAS TREE HANGING GOLD,718.53,799,75,False,False,False,High sales / high units
+23222,CHRISTMAS TREE HANGING GOLD,718.53,799,75,False,False,False,Low sales / high units
 23223,CHRISTMAS TREE HANGING SILVER,750.1899999999999,801,88,False,False,False,High sales / high units
 23224,CHERUB HEART DECORATION GOLD,649.02,738,71,False,False,False,Low sales / high units
 23225,CHERUB HEART DECORATION SILVER,1176.1699999999998,1355,88,False,False,False,High sales / high units
@@ -2154,7 +2149,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23311,VINTAGE CHRISTMAS STOCKING,6488.2,2390,344,False,False,False,High sales / high units
 23312,VINTAGE CHRISTMAS GIFT SACK,5964.150000000001,1423,214,False,False,False,High sales / high units
 23313,VINTAGE CHRISTMAS BUNTING,15798.66,2990,401,False,False,False,High sales / high units
-23314,VINTAGE CHRISTMAS TABLECLOTH,5012.96,407,117,False,False,False,High sales / high units
+23314,VINTAGE CHRISTMAS TABLECLOTH,5012.96,407,117,False,False,False,High sales / low units
 23315,IVORY REFECTORY CLOCK,2094.24,213,86,False,False,False,High sales / low units
 23316,RED REFECTORY CLOCK,2501.64,250,110,False,False,False,High sales / low units
 23317,BLUE REFECTORY CLOCK,1777.46,173,82,False,False,False,High sales / low units
@@ -2164,7 +2159,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23321,SMALL WHITE HEART OF WICKER,8438.539999999999,4716,629,False,False,False,High sales / high units
 23322,LARGE WHITE HEART OF WICKER,8878.210000000001,3069,562,False,False,False,High sales / high units
 23323,WHITE WICKER STAR,3146.78,1469,294,False,False,False,High sales / high units
-23324,RUSTIC STRAWBERRY JAM POT LARGE,816.0400000000001,399,44,False,False,False,High sales / high units
+23324,RUSTIC STRAWBERRY JAM POT LARGE,816.0400000000001,399,44,False,False,False,High sales / low units
 23325,RUSTIC STRAWBERRY JAM POT SMALL,740.9399999999999,462,35,False,False,False,High sales / high units
 23326,HANGING MINI COLOURED BOTTLES,2237.08,3442,76,False,False,False,High sales / high units
 23327,HANGING CLEAR MINI BOTTLE,1051.14,1734,41,False,False,False,High sales / high units
@@ -2175,14 +2170,14 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23332,IVORY WICKER HEART LARGE,3542.7099999999996,2059,287,False,False,False,High sales / high units
 23333,IVORY WICKER HEART MEDIUM,2695.45,2089,233,False,False,False,High sales / high units
 23334,IVORY WICKER HEART SMALL,1491.75,2271,130,False,False,False,High sales / high units
-23335,EGG FRYING PAN IVORY,790.7800000000001,377,96,False,False,False,High sales / high units
+23335,EGG FRYING PAN IVORY,790.7800000000001,377,96,False,False,False,High sales / low units
 23336,EGG FRYING PAN PINK,519.25,225,85,False,False,False,Low sales / low units
 23337,EGG FRYING PAN MINT,388.75,180,69,False,False,False,Low sales / low units
 23338,EGG FRYING PAN RED,915.4000000000001,431,109,False,False,False,High sales / high units
 23339,EGG FRYING PAN BLUE,400.84000000000003,173,76,False,False,False,Low sales / low units
 23340,VINTAGE CHRISTMAS CAKE FRILL,4034.08,2500,151,False,False,False,High sales / high units
 23341,PINK DINER WALL CLOCK,2741.35,307,121,False,False,False,High sales / low units
-23342,MINT DINER WALL CLOCK,3176.41,373,163,False,False,False,High sales / high units
+23342,MINT DINER WALL CLOCK,3176.41,373,163,False,False,False,High sales / low units
 23343,JUMBO BAG VINTAGE CHRISTMAS,13972.710000000001,6078,476,False,False,False,High sales / high units
 23344,JUMBO BAG 50'S CHRISTMAS,23772.07,10285,716,False,False,False,High sales / high units
 23345,DOLLY GIRL BEAKER,2886.25,2451,174,False,False,False,High sales / high units
@@ -2222,7 +2217,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23388,WOODLAND MINI BACKPACK,3432.09,821,154,False,False,False,High sales / high units
 23389,SPACEBOY MINI BACKPACK,4751.49,1115,237,False,False,False,High sales / high units
 23390,DOLLY GIRL MINI BACKPACK,3025.59,747,163,False,False,False,High sales / high units
-23391,I LOVE LONDON MINI BACKPACK,1628.17,389,87,False,False,False,High sales / high units
+23391,I LOVE LONDON MINI BACKPACK,1628.17,389,87,False,False,False,High sales / low units
 23392,SPACEBOY ROCKET LOLLY MAKERS,1475.03,662,113,False,False,False,High sales / high units
 23393,HOME SWEET HOME CUSHION COVER,3207.91,801,229,False,False,False,High sales / high units
 23394,POSTE FRANCE CUSHION COVER,1877.65,435,150,False,False,False,High sales / high units
@@ -2460,7 +2455,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 23681,LUNCH BAG RED VINTAGE DOILY,2525.04,1576,132,False,False,False,High sales / high units
 23691,WRAP KEEP CALM BIRTHDAY,481.5,1175,38,False,False,False,Low sales / high units
 23692,WRAP A PRETTY THANK YOU,21.0,50,2,True,True,False,Low sales / low units
-23694,PAISLEY PARK CARD,165.07999999999998,376,41,False,False,False,Low sales / high units
+23694,PAISLEY PARK CARD,165.07999999999998,376,41,False,False,False,Low sales / low units
 23695,DOILY THANK YOU CARD,313.24,741,57,False,False,False,Low sales / high units
 23697,A PRETTY THANK YOU CARD,194.58,456,35,False,False,False,Low sales / high units
 23702,HIGH RESOLUTION IMAGE,27.0,4,3,True,True,True,Low sales / low units
@@ -2468,7 +2463,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 35001G,HAND OPEN SHAPE GOLD,677.34,198,30,False,False,False,Low sales / low units
 35001W,HAND OPEN SHAPE DECO.WHITE,270.02000000000004,92,5,True,False,False,Low sales / low units
 35004B,SET OF 3 BLACK FLYING DUCKS,2934.8100000000004,577,111,False,False,False,High sales / high units
-35004C,SET OF 3 COLOURED FLYING DUCKS,1888.1000000000001,394,39,False,False,False,High sales / high units
+35004C,SET OF 3 COLOURED FLYING DUCKS,1888.1000000000001,394,39,False,False,False,High sales / low units
 35004G,SET OF 3 GOLD FLYING DUCKS,454.65,127,21,False,False,False,Low sales / low units
 35004P,SET OF 3 PINK FLYING DUCKS,5.45,1,1,True,True,True,Low sales / low units
 35095A,BLUE VICTORIAN FABRIC OVAL BOX,388.57,925,100,False,False,False,Low sales / high units
@@ -2507,9 +2502,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 35650,VINTAGE BEAD PINK JEWEL STAND,4.95,1,1,True,True,True,Low sales / low units
 35651,VINTAGE BEAD PINK SCARF,985.8399999999999,451,58,False,False,False,High sales / high units
 35653,VINTAGE BEAD NOTEBOOK,433.19,150,52,False,False,False,Low sales / low units
-35809A,ENAMEL PINK TEA CONTAINER,488.06,420,62,False,False,False,Low sales / high units
+35809A,ENAMEL PINK TEA CONTAINER,525.39,429,71,False,False,False,Low sales / high units
 35809B,ENAMEL BLUE RIM TEA CONTAINER,9.18,8,3,True,True,True,Low sales / low units
-35809a,ENAMEL PINK TEA CONTAINER,37.33,9,9,False,True,True,Low sales / low units
 35810A,ENAMEL PINK COFFEE CONTAINER,640.0899999999999,633,75,False,False,False,Low sales / high units
 35810B,ENAMEL BLUE RIM COFFEE CONTAINER,174.09,152,26,False,False,False,Low sales / low units
 35815P,"ACRYLIC JEWEL SNOWFLAKE, PINK",63.28000000000001,162,5,True,True,False,Low sales / low units
@@ -2538,7 +2532,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 35920,FOUR RABBIT EASTER DECORATIONS,104.84,72,15,False,False,False,Low sales / low units
 35921,EASTER BUNNY HANGING GARLAND,133.23,68,23,False,False,False,Low sales / low units
 35922,EASTER BUNNY WREATH,138.6,28,10,False,False,True,Low sales / low units
-35923,CANDY HEART HANGING DECORATION,690.52,1318,62,False,False,False,High sales / high units
+35923,CANDY HEART HANGING DECORATION,690.52,1318,62,False,False,False,Low sales / high units
 35924,HANGING FAIRY CAKE DECORATION,1484.3,820,72,False,False,False,High sales / high units
 35933,PINK STOCKING CHRISTMAS DECORATION,92.21000000000001,226,19,False,True,False,Low sales / low units
 35953,FOLKART STAR CHRISTMAS DECORATIONS,1633.6699999999998,3581,131,False,False,False,High sales / high units
@@ -2596,7 +2590,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 37491C,GREEN/BLUE CERAMIC CANDLE HOLDER,13.2,8,1,True,True,True,Low sales / low units
 37491D,PURPLE/BLUE CERAMIC CANDLE HOLDER,9.879999999999999,4,2,True,True,True,Low sales / low units
 37495,FAIRY CAKE BIRTHDAY CANDLE SET,1622.24,440,92,False,False,False,High sales / high units
-37500,TEA TIME TEAPOT IN GIFT BOX,2360.68,380,113,False,False,False,High sales / high units
+37500,TEA TIME TEAPOT IN GIFT BOX,2360.68,380,113,False,False,False,High sales / low units
 37501,TEA TIME TEA SET IN GIFT BOX,906.83,133,49,False,False,False,High sales / low units
 37509,NEW ENGLAND MUG W GIFT BOX,5.1,2,2,True,True,True,Low sales / low units
 40001,WHITE BAMBOO RIBS LAMPSHADE,675.2299999999999,821,56,False,False,False,Low sales / high units
@@ -2627,16 +2621,12 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 46126A,ELVIS WALLHANGING / CURTAIN,69.84,52,8,False,True,False,Low sales / low units
 46138B,BLUE CHENILLE SHAGGY CUSHION COVER,43.15,43,12,False,True,True,Low sales / low units
 46775D,SUNSET COLOUR CHUNKY KNITTED THROW,720.93,60,39,False,False,False,High sales / low units
-46776A,WOVEN BUBBLE GUM CUSHION COVER,651.95,155,70,False,False,False,Low sales / low units
-46776B,WOVEN BERRIES CUSHION COVER,679.67,161,88,False,False,False,High sales / low units
+46776A,WOVEN BUBBLE GUM CUSHION COVER,672.6,160,71,False,False,False,Low sales / low units
+46776B,WOVEN BERRIES CUSHION COVER,683.8,162,89,False,False,False,Low sales / low units
 46776C,WOVEN FROST CUSHION COVER,492.79,117,59,False,False,False,Low sales / low units
 46776D,WOVEN SUNSET CUSHION COVER,378.29,89,37,False,False,False,Low sales / low units
-46776E,WOVEN CANDY CUSHION COVER,288.43,67,38,False,False,False,Low sales / low units
-46776F,WOVEN ROSE GARDEN CUSHION COVER,883.12,210,89,False,False,False,High sales / low units
-46776a,WOVEN BUBBLE GUM CUSHION COVER,20.65,5,1,True,True,True,Low sales / low units
-46776b,WOVEN BERRIES CUSHION COVER,4.13,1,1,True,True,True,Low sales / low units
-46776e,WOVEN CANDY CUSHION COVER,4.13,1,1,True,True,True,Low sales / low units
-46776f,WOVEN ROSE GARDEN CUSHION COVER,28.91,7,1,True,True,True,Low sales / low units
+46776E,WOVEN CANDY CUSHION COVER,292.56,68,39,False,False,False,Low sales / low units
+46776F,WOVEN ROSE GARDEN CUSHION COVER,912.03,217,90,False,False,False,High sales / low units
 47013A,WINE BOTTLE DRESSING LT.BLUE,3.0399999999999996,14,4,True,True,True,Low sales / low units
 47013C,WINE BOTTLE DRESSING DARK BLUE,12.969999999999999,52,12,False,True,False,Low sales / low units
 47016,LIGHT DECORATION BATTERY OPERATED,4.2,2,1,True,True,True,Low sales / low units
@@ -2663,36 +2653,28 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 47503J,SET/3 FLORAL GARDEN TOOLS IN BAG,23.85,3,2,True,True,True,Low sales / low units
 47504H,ENGLISH ROSE SPIRIT LEVEL,964.38,978,118,False,False,False,High sales / high units
 47504K,ENGLISH ROSE GARDEN SECATEURS,2048.66,2018,212,False,False,False,High sales / high units
-47518F,ICON PLACEMAT POP ART ELVIS,113.64,827,28,False,False,False,Low sales / high units
-47518f,ICON PLACEMAT POP ART ELVIS,20.73,5,5,True,True,True,Low sales / low units
+47518F,ICON PLACEMAT POP ART ELVIS,134.37,832,33,False,False,False,Low sales / high units
 47556B,TEA TIME TEA TOWELS,6045.0,2600,2,True,False,False,High sales / high units
-47559B,TEA TIME OVEN GLOVE,2584.9,2077,287,False,False,False,High sales / high units
-47559b,TEA TIME OVEN GLOVE,342.65,103,28,False,False,False,Low sales / low units
+47559B,TEA TIME OVEN GLOVE,2927.55,2180,315,False,False,False,High sales / high units
 47563A,RETRO LONGBOARD IRONING BOARD COVER,551.51,285,105,False,False,False,Low sales / low units
 47566,PARTY BUNTING,99445.23,18283,1685,False,False,False,High sales / high units
-47566B,TEA TIME PARTY BUNTING,11275.27,2379,365,False,False,False,High sales / high units
-47566b,TEA TIME PARTY BUNTING,1651.1499999999999,199,102,False,False,False,High sales / low units
+47566B,TEA TIME PARTY BUNTING,12926.42,2578,467,False,False,False,High sales / high units
 47567B,TEA TIME KITCHEN APRON,3414.5000000000005,602,133,False,False,False,High sales / high units
-47570B,TEA TIME TABLE CLOTH,1727.23,185,31,False,False,False,High sales / low units
-47570b,TEA TIME TABLE CLOTH,42.019999999999996,2,2,True,True,True,Low sales / low units
+47570B,TEA TIME TABLE CLOTH,1769.25,187,33,False,False,False,High sales / low units
 47574A,ENGLISH ROSE SCENTED HANGING FLOWER,665.2,548,114,False,False,False,Low sales / high units
 47574B,ENGLISH ROSE SCENTED HANGING HEART,17.0,4,2,True,True,True,Low sales / low units
 47578A,ENGLISH ROSE SMALL SCENTED FLOWER,197.43,213,45,False,False,False,Low sales / low units
 47579,TEA TIME BREAKFAST BASKET,2.1,1,1,True,True,True,Low sales / low units
-47580,TEA TIME DES TEA COSY,1116.72,388,110,False,False,False,High sales / high units
+47580,TEA TIME DES TEA COSY,1116.72,388,110,False,False,False,High sales / low units
 47585A,PINK FAIRY CAKE CUSHION COVER,1129.44,264,83,False,False,False,High sales / low units
 47586A,PINK FAIRY CAKE CUSHION COVER,53.55,21,8,False,True,True,Low sales / low units
 47589,CONGRATULATIONS BUNTING,70.85000000000001,13,3,True,True,True,Low sales / low units
 47590A,BLUE HAPPY BIRTHDAY BUNTING,10491.75,1990,390,False,False,False,High sales / high units
-47590B,PINK HAPPY BIRTHDAY BUNTING,12050.12,2323,393,False,False,False,High sales / high units
-47590b,PINK HAPPY BIRTHDAY BUNTING,129.48,12,9,False,False,True,Low sales / low units
-47591B,SCOTTIES CHILDRENS APRON,344.78999999999996,209,56,False,False,False,Low sales / low units
-47591D,PINK FAIRY CAKE CHILDRENS APRON,6052.45,3207,439,False,False,False,High sales / high units
-47591b,SCOTTIES CHILDRENS APRON,4.13,1,1,True,True,True,Low sales / low units
-47591d,PINK FAIRY CAKE CHILDRENS APRON,672.24,134,56,False,False,False,Low sales / low units
+47590B,PINK HAPPY BIRTHDAY BUNTING,12179.6,2335,402,False,False,False,High sales / high units
+47591B,SCOTTIES CHILDRENS APRON,348.91999999999996,210,57,False,False,False,Low sales / low units
+47591D,PINK FAIRY CAKE CHILDRENS APRON,6724.69,3341,495,False,False,False,High sales / high units
 47593A,CAROUSEL PONIES BABY BIB,14.37,33,12,False,True,True,Low sales / low units
-47593B,SCOTTIE DOGS BABY BIB,946.13,1987,245,False,False,False,High sales / high units
-47593b,SCOTTIE DOGS BABY BIB,4.9799999999999995,6,1,True,True,True,Low sales / low units
+47593B,SCOTTIE DOGS BABY BIB,951.1099999999999,1993,246,False,False,False,High sales / high units
 47594A,CAROUSEL DESIGN WASHBAG,199.84,108,50,False,False,False,Low sales / low units
 47594B,SCOTTIES DESIGN WASHBAG,314.54999999999995,170,56,False,False,False,Low sales / low units
 47599A,PINK PARTY BAGS,4649.5,2456,165,False,False,False,High sales / high units
@@ -2701,8 +2683,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 48116,DOORMAT MULTICOLOUR STRIPE,9080.68,1491,201,False,False,False,High sales / high units
 48129,DOORMAT TOPIARY,6009.84,904,205,False,False,False,High sales / high units
 48138,DOORMAT UNION FLAG,25534.15,3751,616,False,False,False,High sales / high units
-48173C,DOORMAT BLACK FLOCK,10000.66,1799,188,False,False,False,High sales / high units
-48173c,DOORMAT BLACK FLOCK,252.95000000000002,15,7,False,False,True,Low sales / low units
+48173C,DOORMAT BLACK FLOCK,10253.61,1814,195,False,False,False,High sales / high units
 48184,DOORMAT ENGLISH ROSE,14300.15,2035,407,False,False,False,High sales / high units
 48185,DOORMAT FAIRY CAKE,23872.91,3615,365,False,False,False,High sales / high units
 48187,DOORMAT NEW ENGLAND,24108.39,3807,600,False,False,False,High sales / high units
@@ -2711,9 +2692,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 48194,DOORMAT HEARTS,22114.42,3416,592,False,False,False,High sales / high units
 51008,AFGHAN SLIPPER SOCK PAIR,1690.5500000000002,519,22,False,False,False,High sales / high units
 51014A,"FEATHER PEN,HOT PINK",2000.06,3842,239,False,False,False,High sales / high units
-51014C,"FEATHER PEN,COAL BLACK",1405.73,2687,174,False,False,False,High sales / high units
+51014C,"FEATHER PEN,COAL BLACK",1406.56,2688,175,False,False,False,High sales / high units
 51014L,"FEATHER PEN,LIGHT PINK",1069.1399999999999,2059,149,False,False,False,High sales / high units
-51014c,"FEATHER PEN,COAL BLACK",0.83,1,1,True,True,True,Low sales / low units
 51020A,SUMMER FUN DESIGN SHOWER CAP,116.32999999999998,325,18,False,False,False,Low sales / low units
 51020B,STRIPY DESIGN SHOWER CAP,70.57,197,15,False,True,False,Low sales / low units
 62018,SOMBRERO,5716.85,4415,61,False,False,False,High sales / high units
@@ -2756,11 +2736,9 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 72140E,BEST DAD CANDLE LETTERS,26.349999999999998,31,8,False,True,True,Low sales / low units
 72225C,LAVENDER SCENT CAKE CANDLE,165.6,624,17,False,False,False,Low sales / high units
 72232,FENG SHUI PILLAR CANDLE,630.23,3317,65,False,False,False,Low sales / high units
-72349B,SET/6 PURPLE BUTTERFLY T-LIGHTS,1486.69,729,114,False,False,False,High sales / high units
-72349b,SET/6 PURPLE BUTTERFLY T-LIGHTS,658.51,159,82,False,False,False,Low sales / low units
-72351A,SET/6 TURQUOISE BUTTERFLY T-LIGHTS,2498.75,1264,153,False,False,False,High sales / high units
+72349B,SET/6 PURPLE BUTTERFLY T-LIGHTS,2145.2000000000003,888,196,False,False,False,High sales / high units
+72351A,SET/6 TURQUOISE BUTTERFLY T-LIGHTS,2561.02,1279,165,False,False,False,High sales / high units
 72351B,SET/6 PINK BUTTERFLY T-LIGHTS,4007.85,2096,186,False,False,False,High sales / high units
-72351a,SET/6 TURQUOISE BUTTERFLY T-LIGHTS,62.269999999999996,15,12,False,True,True,Low sales / low units
 72369A,PINK CLEAR GLASS CANDLE PLATE,39.92,30,5,True,True,True,Low sales / low units
 72586,SET OF 6 HALLOWEEN GHOST T-LIGHTS,317.83,691,83,False,False,False,Low sales / high units
 72598,SET/12 TAPER CANDLES,605.89,607,93,False,False,False,Low sales / high units
@@ -2777,24 +2755,17 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 72800C,4 PINK DINNER CANDLE SILVER FLOCK,259.71999999999997,130,35,False,False,False,Low sales / low units
 72800D,4 BLUE DINNER CANDLES SILVER FLOCK,226.67,87,31,False,False,False,Low sales / low units
 72800E,4 IVORY DINNER CANDLES SILVER FLOCK,1205.64,538,136,False,False,False,High sales / high units
-72801C,4 ROSE PINK DINNER CANDLES,180.65,145,19,False,False,False,Low sales / low units
-72801D,4 SKY BLUE DINNER CANDLES,113.21,75,18,False,False,False,Low sales / low units
+72801C,4 ROSE PINK DINNER CANDLES,276.59,184,44,False,False,False,Low sales / low units
+72801D,4 SKY BLUE DINNER CANDLES,297.91,150,62,False,False,False,Low sales / low units
 72801G,4 BURGUNDY WINE DINNER CANDLES,57.46,45,13,False,True,True,Low sales / low units
-72801c,4 ROSE PINK DINNER CANDLES,95.94,39,25,False,True,True,Low sales / low units
-72801d,4 SKY BLUE DINNER CANDLES,184.7,75,44,False,False,False,Low sales / low units
-72802A,ROSE SCENT CANDLE IN JEWELLED BOX,1329.91,323,63,False,False,False,High sales / low units
+72802A,ROSE SCENT CANDLE IN JEWELLED BOX,1387.94,330,65,False,False,False,High sales / low units
 72802B,OCEAN SCENT CANDLE IN JEWELLED BOX,1993.48,1028,82,False,False,False,High sales / high units
-72802C,VANILLA SCENT CANDLE JEWELLED BOX,2688.19,1395,105,False,False,False,High sales / high units
-72802a,ROSE SCENT CANDLE IN JEWELLED BOX,58.029999999999994,7,2,True,True,True,Low sales / low units
-72802c,VANILLA SCENT CANDLE JEWELLED BOX,8.29,1,1,True,True,True,Low sales / low units
+72802C,VANILLA SCENT CANDLE JEWELLED BOX,2696.48,1396,106,False,False,False,High sales / high units
 72803A,ROSE SCENT CANDLE JEWELLED DRAWER,722.47,529,41,False,False,False,High sales / high units
-72803b,OCEAN SCENT CANDLE JEWELLED DRAWER,8.47,1,1,True,True,True,Low sales / low units
-72807A,SET/3 ROSE CANDLE IN JEWELLED BOX,1845.57,393,107,False,False,False,High sales / high units
-72807B,SET/3 OCEAN SCENT CANDLE JEWEL BOX,1822.21,395,110,False,False,False,High sales / high units
-72807C,SET/3 VANILLA SCENTED CANDLE IN BOX,3145.05,721,157,False,False,False,High sales / high units
-72807a,SET/3 ROSE CANDLE IN JEWELLED BOX,66.32,8,5,True,True,True,Low sales / low units
-72807b,SET/3 OCEAN SCENT CANDLE JEWEL BOX,33.16,4,4,True,True,True,Low sales / low units
-72807c,SET/3 VANILLA SCENTED CANDLE IN BOX,41.449999999999996,5,5,True,True,True,Low sales / low units
+72803B,OCEAN SCENT CANDLE JEWELLED DRAWER,8.47,1,1,True,True,True,Low sales / low units
+72807A,SET/3 ROSE CANDLE IN JEWELLED BOX,1911.8899999999999,401,112,False,False,False,High sales / low units
+72807B,SET/3 OCEAN SCENT CANDLE JEWEL BOX,1855.37,399,114,False,False,False,High sales / low units
+72807C,SET/3 VANILLA SCENTED CANDLE IN BOX,3186.5,726,162,False,False,False,High sales / high units
 72811,SMALL ZINC/GLASS CANDLEHOLDER,78.92999999999999,53,8,False,True,False,Low sales / low units
 72812,LARGE ZINC GLASS CANDLEHOLDER,116.06,34,11,False,False,True,Low sales / low units
 72815,3 WICK CHRISTMAS BRIAR CANDLE,15.97,3,2,True,True,True,Low sales / low units
@@ -2810,7 +2781,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 75172,PAINTED SEA SHELL METAL WINDCHIME,85.31,93,8,False,True,False,Low sales / low units
 75178,ASSTD COL BUTTERFLY/CRYSTAL W/CHIME,218.87,459,13,False,False,False,Low sales / high units
 77079,DOLPHIN WINDMILL,2.12,1,1,True,True,True,Low sales / low units
-77101A,UNION FLAG WINDSOCK,426.94,387,22,False,False,False,Low sales / high units
+77101A,UNION FLAG WINDSOCK,426.94,387,22,False,False,False,Low sales / low units
 78033,FLAG OF ST GEORGE CHAIR,185.3,38,8,False,False,True,Low sales / low units
 78034B,BLUE NETTING STORAGE HANGER,15.6,8,6,False,True,True,Low sales / low units
 78124,MAGAZINE RACK GEBRA ASSORTED,256.5,198,18,False,False,False,Low sales / low units
@@ -2822,8 +2793,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 79062D,"RETRO TIN ASHTRAY,REVOLUTIONARY",19.4,52,4,True,True,False,Low sales / low units
 79063C,"RETRO PILL BOX KEY CHAIN,THE KING",43.65,235,14,False,True,False,Low sales / low units
 79063D,"RETRO PILL BOX , REVOLUTIONARY",35.14,189,11,False,True,False,Low sales / low units
-79066K,RETRO MOD TRAY,689.34,783,146,False,False,False,High sales / high units
-79066k,RETRO MOD TRAY,27.77,17,10,False,True,True,Low sales / low units
+79066K,RETRO MOD TRAY,717.11,800,156,False,False,False,Low sales / high units
 79067,CORONA MEXICAN TRAY,719.69,172,38,False,False,False,High sales / low units
 79071B,ENGLISH ROSE METAL WASTE BIN,59.0,20,11,False,True,True,Low sales / low units
 79144B,PAINTED LIGHTBULB STAR+ MOON,103.22999999999999,180,53,False,False,False,Low sales / low units
@@ -2835,15 +2805,15 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 79160,HEART SHAPE WIRELESS DOORBELL,795.83,444,49,False,False,False,High sales / high units
 79161A,ST GEORGE SET OF 10 PARTY LIGHTS,5.9,2,2,True,True,True,Low sales / low units
 79163,BLACK CHAMPAGNE GLASS,626.55,1529,35,False,False,False,Low sales / high units
-79164,BLACK WINE GLASS,697.62,1666,19,False,False,False,High sales / high units
-79190A,RETRO PLASTIC 70'S TRAY,179.35999999999999,384,63,False,False,False,Low sales / high units
+79164,BLACK WINE GLASS,697.62,1666,19,False,False,False,Low sales / high units
+79190A,RETRO PLASTIC 70'S TRAY,179.35999999999999,384,63,False,False,False,Low sales / low units
 79190B,RETRO PLASTIC POLKA TRAY,288.36,707,57,False,False,False,Low sales / high units
 79190D,RETRO PLASTIC DAISY TRAY,126.97999999999999,265,47,False,False,False,Low sales / low units
 79191B,RETRO PLASTIC POLKA TRAY,138.29999999999998,159,30,False,False,False,Low sales / low units
 79191C,RETRO PLASTIC ELEPHANT TRAY,812.53,1105,65,False,False,False,High sales / high units
 79191D,RETRO PLASTIC DAISY TRAY,37.61,35,16,False,True,True,Low sales / low units
 79192A,RETRO PLASTIC 70'S TRAY,3.75,3,2,True,True,True,Low sales / low units
-79302M,"ART LIGHTS,FUNK MONKEY",1037.54,370,62,False,False,False,High sales / high units
+79302M,"ART LIGHTS,FUNK MONKEY",1037.54,370,62,False,False,False,High sales / low units
 79321,CHILLI LIGHTS,54096.36,10302,661,False,False,False,High sales / high units
 79323B,BLACK CHERRY LIGHTS,54.0,8,1,True,True,True,Low sales / low units
 79323P,PINK CHERRY LIGHTS,27.0,4,1,True,True,True,Low sales / low units
@@ -2859,8 +2829,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 81952V,ROUND PURPLE CLOCK WITH SUCKER,69.35,365,24,False,True,False,Low sales / low units
 81953B,ROUND BLUE CLOCK WITH SUCKER,2.09,11,3,True,True,True,Low sales / low units
 81953P,ROUND ARTICULATED PINK CLOCK W/SUCK,5.32,28,3,True,True,True,Low sales / low units
-82001S,VINYL RECORD FRAME SILVER,5750.21,1582,127,False,False,False,High sales / high units
-82001s,SILVER RECORD COVER FRAME,910.12,122,27,False,False,False,High sales / low units
+82001S,VINYL RECORD FRAME SILVER,6660.33,1704,154,False,False,False,High sales / high units
 82011A,"BATHROOM SCALES, TROPICAL BEACH",67.5,18,12,False,True,True,Low sales / low units
 82011B,BATHROOM SCALES RUBBER DUCKS,146.85,43,21,False,False,True,Low sales / low units
 82011C,BATHROOM SCALES FOOTPRINTS IN SAND,172.05,51,20,False,False,False,Low sales / low units
@@ -2869,8 +2838,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 82483,WOOD 2 DRAWER CABINET WHITE FINISH,15123.92,2386,543,False,False,False,High sales / high units
 82484,WOOD BLACK BOARD ANT WHITE FINISH,35966.92,6012,685,False,False,False,High sales / high units
 82486,WOOD S/3 CABINET ANT WHITE FINISH,18343.92,2136,605,False,False,False,High sales / high units
-82494L,WOODEN FRAME ANTIQUE WHITE,19599.49,6735,910,False,False,False,High sales / high units
-82494l,WOODEN FRAME ANTIQUE WHITE,2211.6,264,61,False,False,False,High sales / low units
+82494L,WOODEN FRAME ANTIQUE WHITE,21811.09,6999,971,False,False,False,High sales / high units
 82551,LAUNDRY 15C METAL SIGN,4542.889999999999,2918,351,False,False,False,High sales / high units
 82552,WASHROOM METAL SIGN,4674.83,3012,364,False,False,False,High sales / high units
 82567,"AIRLINE LOUNGE,METAL SIGN",1408.07,711,291,False,False,False,High sales / high units
@@ -2882,13 +2850,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 82599,FANNY'S REST STOPMETAL SIGN,1217.73,508,141,False,False,False,High sales / high units
 82600,NO SINGING METAL SIGN,12833.18,6013,545,False,False,False,High sales / high units
 82605,OLD DOC RUSSEL METAL SIGN,29.400000000000002,14,3,True,True,True,Low sales / low units
-82613A,"METAL SIGN,CUPCAKE SINGLE HOOK",92.38,71,18,False,True,False,Low sales / low units
-82613B,"METAL SIGN,CUPCAKE SINGLE HOOK",500.24,583,111,False,False,False,Low sales / high units
-82613C,"METAL SIGN,CUPCAKE SINGLE HOOK",443.38,537,96,False,False,False,Low sales / high units
+82613A,"METAL SIGN,CUPCAKE SINGLE HOOK",94.84,72,19,False,True,False,Low sales / low units
+82613B,"METAL SIGN,CUPCAKE SINGLE HOOK",510.18,587,115,False,False,False,Low sales / high units
+82613C,"METAL SIGN,CUPCAKE SINGLE HOOK",455.78,542,100,False,False,False,Low sales / high units
 82613D,METAL SIGN CUPCAKE SINGLE HOOK,534.24,696,111,False,False,False,Low sales / high units
-82613a,"METAL SIGN,CUPCAKE SINGLE HOOK",2.46,1,1,True,True,True,Low sales / low units
-82613b,"METAL SIGN,CUPCAKE SINGLE HOOK",9.94,4,4,True,True,True,Low sales / low units
-82613c,"METAL SIGN,CUPCAKE SINGLE HOOK",12.399999999999999,5,4,True,True,True,Low sales / low units
 82615,PINK MARSHMALLOW SCARF KNITTING KIT,91.8,36,1,True,True,True,Low sales / low units
 82616B,FRAPPUCINO SCARF KNITTING KIT,502.74,343,73,False,False,False,Low sales / low units
 82616C,MIDNIGHT GLAMOUR SCARF KNITTING KIT,501.44,324,85,False,False,False,Low sales / low units
@@ -2897,12 +2862,9 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84016,FLAG OF ST GEORGE CAR FLAG,12.16,27,2,True,True,True,Low sales / low units
 84029E,RED WOOLLY HOTTIE WHITE HEART.,22025.73,4734,429,False,False,False,High sales / high units
 84029G,KNITTED UNION FLAG HOT WATER BOTTLE,16148.04,3319,459,False,False,False,High sales / high units
-84030E,ENGLISH ROSE HOT WATER BOTTLE,6414.69,1497,334,False,False,False,High sales / high units
-84030e,ENGLISH ROSE HOT WATER BOTTLE,877.76,108,41,False,False,False,High sales / low units
-84031A,CHARLIE+LOLA RED HOT WATER BOTTLE,1959.91,430,165,False,False,False,High sales / high units
-84031B,CHARLIE LOLA BLUE HOT WATER BOTTLE,1435.72,303,143,False,False,False,High sales / low units
-84031a,CHARLIE+LOLA RED HOT WATER BOTTLE,16.63,1,1,True,True,True,Low sales / low units
-84031b,CHARLIE LOLA BLUE HOT WATER BOTTLE,16.63,1,1,True,True,True,Low sales / low units
+84030E,ENGLISH ROSE HOT WATER BOTTLE,7292.45,1605,375,False,False,False,High sales / high units
+84031A,CHARLIE+LOLA RED HOT WATER BOTTLE,1976.54,431,165,False,False,False,High sales / high units
+84031B,CHARLIE LOLA BLUE HOT WATER BOTTLE,1452.3500000000001,304,143,False,False,False,High sales / low units
 84032A,CHARLIE+LOLA PINK HOT WATER BOTTLE,3384.98,1003,313,False,False,False,High sales / high units
 84032B,CHARLIE + LOLA RED HOT WATER BOTTLE,2421.59,936,255,False,False,False,High sales / high units
 84033,FLAG OF ST GEORGE,37.95,23,7,False,True,True,Low sales / low units
@@ -2936,7 +2898,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84251G,"GREETING CARD, OVERCROWDED POOL.",74.7,270,53,False,True,False,Low sales / low units
 84270,ASSTD DESIGN BUBBLE GUM RING,3.5700000000000003,17,4,True,True,True,Low sales / low units
 84279B,CHERRY BLOSSOM DECORATIVE FLASK,774.7,192,69,False,False,False,High sales / low units
-84279P,CHERRY BLOSSOM DECORATIVE FLASK,1565.71,377,126,False,False,False,High sales / high units
+84279P,CHERRY BLOSSOM DECORATIVE FLASK,1565.71,377,126,False,False,False,High sales / low units
 84306,S/3 PINK SQUARE PLANTERS ROSES,88.22,10,9,False,True,True,Low sales / low units
 84313B,BLUE TV TRAY TABLE,518.61,127,39,False,False,False,Low sales / low units
 84313C,ORANGE TV TRAY TABLE,1165.9099999999999,504,43,False,False,False,High sales / high units
@@ -2972,21 +2934,14 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84508A,CAMOUFLAGE DESIGN TEDDY,3448.05,1631,36,False,False,False,High sales / high units
 84508B,STRIPES DESIGN TEDDY,142.79999999999998,56,30,False,False,False,Low sales / low units
 84508C,BLUE CIRCLES DESIGN TEDDY,154.95,56,25,False,False,False,Low sales / low units
-84509A,SET OF 4 ENGLISH ROSE PLACEMATS,3417.28,896,230,False,False,False,High sales / high units
-84509B,SET OF 4 FAIRY CAKE PLACEMATS,806.04,217,79,False,False,False,High sales / low units
-84509C,SET OF 4 POLKADOT PLACEMATS,498.94,130,51,False,False,False,Low sales / low units
+84509A,SET OF 4 ENGLISH ROSE PLACEMATS,4193.12,1000,298,False,False,False,High sales / high units
+84509B,SET OF 4 FAIRY CAKE PLACEMATS,843.34,222,83,False,False,False,High sales / low units
+84509C,SET OF 4 POLKADOT PLACEMATS,821.16,173,78,False,False,False,High sales / low units
 84509E,SET OF 4 CAROUSEL PLACEMATS,183.45,91,23,False,False,False,Low sales / low units
-84509G,SET OF 4 FAIRY CAKE PLACEMATS,950.49,517,66,False,False,False,High sales / high units
-84509a,SET OF 4 ENGLISH ROSE PLACEMATS,775.84,104,68,False,False,False,High sales / low units
-84509b,SET OF 4 FAIRY CAKE PLACEMATS,37.3,5,4,True,True,True,Low sales / low units
-84509c,SET OF 4 POLKADOT PLACEMATS,322.22,43,27,False,False,True,Low sales / low units
-84509g,SET OF 4 FAIRY CAKE PLACEMATS,14.92,2,2,True,True,True,Low sales / low units
-84510A,SET OF 4 ENGLISH ROSE COASTERS,1630.32,1196,239,False,False,False,High sales / high units
-84510C,SET OF 4 POLKADOT COASTERS,211.32999999999998,132,54,False,False,False,Low sales / low units
-84510E,SET OF 4 GREEN CAROUSEL COASTERS,48.29,34,16,False,True,True,Low sales / low units
-84510a,SET OF 4 ENGLISH ROSE COASTERS,130.48,53,40,False,False,False,Low sales / low units
-84510c,SET OF 4 POLKADOT COASTERS,98.7,40,23,False,True,True,Low sales / low units
-84510e,SET OF 4 GREEN CAROUSEL COASTERS,2.46,1,1,True,True,True,Low sales / low units
+84509G,SET OF 4 FAIRY CAKE PLACEMATS,965.41,519,68,False,False,False,High sales / high units
+84510A,SET OF 4 ENGLISH ROSE COASTERS,1760.8,1249,279,False,False,False,High sales / high units
+84510C,SET OF 4 POLKADOT COASTERS,310.03,172,77,False,False,False,Low sales / low units
+84510E,SET OF 4 GREEN CAROUSEL COASTERS,50.75,35,17,False,True,True,Low sales / low units
 84519A,TOMATO CHARLIE+LOLA COASTER SET,905.55,512,88,False,False,False,High sales / high units
 84519B,CARROT CHARLIE+LOLA COASTER SET,773.3,471,126,False,False,False,High sales / high units
 84520B,PACK 20 ENGLISH ROSE PAPER NAPKINS,508.36999999999995,554,80,False,False,False,Low sales / high units
@@ -2994,25 +2949,19 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84527,FLAMES SUNGLASSES PINK LENSES,95.1,52,8,False,True,False,Low sales / low units
 84531A,PINK KNITTED EGG COSY,76.69,147,29,False,True,False,Low sales / low units
 84531B,BLUE KNITTED EGG COSY,85.61,155,28,False,True,False,Low sales / low units
-84534B,FAIRY CAKE NOTEBOOK A5 SIZE,50.72,53,10,False,True,False,Low sales / low units
-84534b,FAIRY CAKE NOTEBOOK A5 SIZE,3.32,2,2,True,True,True,Low sales / low units
-84535A,ENGLISH ROSE NOTEBOOK A6 SIZE,186.56,399,21,False,False,False,Low sales / high units
+84534B,FAIRY CAKE NOTEBOOK A5 SIZE,54.04,55,12,False,True,False,Low sales / low units
+84535A,ENGLISH ROSE NOTEBOOK A6 SIZE,186.56,399,21,False,False,False,Low sales / low units
 84535B,FAIRY CAKES NOTEBOOK A6 SIZE,850.2,1332,155,False,False,False,High sales / high units
-84536A,ENGLISH ROSE NOTEBOOK A7 SIZE,1409.8999999999999,3138,341,False,False,False,High sales / high units
-84536B,FAIRY CAKES NOTEBOOK A7 SIZE,888.14,2102,178,False,False,False,High sales / high units
-84536a,ENGLISH ROSE NOTEBOOK A7 SIZE,11.060000000000002,14,4,True,True,True,Low sales / low units
-84536b,FAIRY CAKES NOTEBOOK A7 SIZE,4.050000000000001,5,1,True,True,True,Low sales / low units
+84536A,ENGLISH ROSE NOTEBOOK A7 SIZE,1420.96,3152,345,False,False,False,High sales / high units
+84536B,FAIRY CAKES NOTEBOOK A7 SIZE,892.19,2107,179,False,False,False,High sales / high units
 84539,KNITTED RABBIT DOLL,42.9,26,2,True,True,True,Low sales / low units
 84548,CROCHET BEAR RED/BLUE KEYRING,36.3,22,4,True,True,True,Low sales / low units
 84549,CROCHET WHITE RABBIT KEYRING,69.38,38,7,False,True,True,Low sales / low units
 84550,CROCHET LILAC/RED BEAR KEYRING,1.65,1,1,True,True,True,Low sales / low units
 84551,CROCHET DOG KEYRING,21.449999999999996,13,2,True,True,True,Low sales / low units
-84558A,3D DOG PICTURE PLAYING CARDS,987.4100000000001,333,81,False,False,False,High sales / low units
-84558a,3D DOG PICTURE PLAYING CARDS,29.310000000000002,5,5,True,True,True,Low sales / low units
-84559A,3D SHEET OF DOG STICKERS,375.60999999999996,397,94,False,False,False,Low sales / high units
-84559B,3D SHEET OF CAT STICKERS,217.29,237,55,False,False,False,Low sales / low units
-84559a,3D SHEET OF DOG STICKERS,48.379999999999995,29,22,False,True,True,Low sales / low units
-84559b,3D SHEET OF CAT STICKERS,38.33,23,20,False,True,True,Low sales / low units
+84558A,3D DOG PICTURE PLAYING CARDS,1016.72,338,86,False,False,False,High sales / low units
+84559A,3D SHEET OF DOG STICKERS,423.99,426,116,False,False,False,Low sales / high units
+84559B,3D SHEET OF CAT STICKERS,255.61999999999998,260,75,False,False,False,Low sales / low units
 84562A,PINK/WHITE RIBBED MELAMINE JUG,23.85,3,3,True,True,True,Low sales / low units
 84563A,PINK & WHITE BREAKFAST TRAY,369.84000000000003,96,35,False,False,False,Low sales / low units
 84563B,BLUE & WHITE BREAKFAST TRAY,346.3,94,38,False,False,False,Low sales / low units
@@ -3023,23 +2972,18 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84569D,PACK 6 HEART/ICE-CREAM PATCHES,560.62,467,98,False,False,False,Low sales / high units
 84575A,PINK DOG CANNISTER,39.3,14,4,True,True,True,Low sales / low units
 84576,BLUE CAT BISCUIT BARREL PINK HEART,148.32,66,17,False,False,False,Low sales / low units
-84580,MOUSE TOY WITH PINK T-SHIRT,1482.43,389,165,False,False,False,High sales / high units
-84581,DOG TOY WITH PINK CROCHET SKIRT,709.71,187,90,False,False,False,High sales / low units
+84580,MOUSE TOY WITH PINK T-SHIRT,1482.43,389,165,False,False,False,High sales / low units
+84581,DOG TOY WITH PINK CROCHET SKIRT,709.71,187,90,False,False,False,Low sales / low units
 84584,PINK GINGHAM CAT WITH SCARF,314.51,144,30,False,False,False,Low sales / low units
 84592,CROCHET ROSE PURSE WITH SUEDE BACK,241.24000000000004,76,22,False,False,False,Low sales / low units
 84593,CROCHET ROSE DES CLOTHES HANGER,14.750000000000002,5,1,True,True,True,Low sales / low units
 84595E,LARGE TORTILLA DESIGN RED BOWL,154.67999999999998,78,22,False,False,False,Low sales / low units
-84596B,SMALL DOLLY MIX DESIGN ORANGE BOWL,2547.42,5023,522,False,False,False,High sales / high units
-84596E,SMALL LICORICE DES PINK BOWL,411.68,564,79,False,False,False,Low sales / high units
-84596F,SMALL MARSHMALLOWS PINK BOWL,1943.62,3732,435,False,False,False,High sales / high units
-84596G,SMALL CHOCOLATES PINK BOWL,949.0799999999999,1855,245,False,False,False,High sales / high units
+84596B,SMALL DOLLY MIX DESIGN ORANGE BOWL,2564.99,5030,527,False,False,False,High sales / high units
+84596E,SMALL LICORICE DES PINK BOWL,436.78,574,85,False,False,False,Low sales / high units
+84596F,SMALL MARSHMALLOWS PINK BOWL,1982.98,3748,447,False,False,False,High sales / high units
+84596G,SMALL CHOCOLATES PINK BOWL,956.4599999999999,1858,246,False,False,False,High sales / high units
 84596J,MIXED NUTS LIGHT GREEN BOWL,296.45,568,68,False,False,False,Low sales / high units
-84596L,BISCUITS SMALL BOWL LIGHT BLUE,629.38,1254,172,False,False,False,Low sales / high units
-84596b,SMALL DOLLY MIX DESIGN ORANGE BOWL,17.57,7,5,True,True,True,Low sales / low units
-84596e,SMALL LICORICE DES PINK BOWL,25.099999999999998,10,6,False,True,True,Low sales / low units
-84596f,SMALL MARSHMALLOWS PINK BOWL,39.36,16,12,False,True,True,Low sales / low units
-84596g,SMALL CHOCOLATES PINK BOWL,7.38,3,1,True,True,True,Low sales / low units
-84596l,BISCUITS SMALL BOWL LIGHT BLUE,2.46,1,1,True,True,True,Low sales / low units
+84596L,BISCUITS SMALL BOWL LIGHT BLUE,631.8399999999999,1255,173,False,False,False,Low sales / high units
 84597B,RETRO BROWN BALL ASHTRAY,51.25,41,5,True,True,True,Low sales / low units
 84597C,RETRO PINK BALL ASHTRAY,57.5,46,13,False,True,True,Low sales / low units
 84598,BOYS ALPHABET IRON ON PATCHES,546.04,1975,99,False,False,False,Low sales / high units
@@ -3060,17 +3004,12 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84638,SMALL KITCHEN FLOWER POTS PLAQUE,331.5,50,37,False,False,False,Low sales / low units
 84658,WHITE STITCHED CUSHION COVER,412.23,57,22,False,False,False,Low sales / low units
 84659A,WHITE TRAVEL ALARM CLOCK,676.27,280,89,False,False,False,Low sales / low units
-84660A,WHITE STITCHED WALL CLOCK,783.45,843,42,False,False,False,High sales / high units
-84660B,BLACK STITCHED WALL CLOCK,733.28,707,40,False,False,False,High sales / high units
-84660C,PINK STITCHED WALL CLOCK,693.32,661,45,False,False,False,High sales / high units
-84660a,WHITE STITCHED WALL CLOCK,29.84,4,2,True,True,True,Low sales / low units
-84660b,BLACK STITCHED WALL CLOCK,15.08,2,2,True,True,True,Low sales / low units
-84660c,PINK STITCHED WALL CLOCK,134.92,18,16,False,False,True,Low sales / low units
-84661A,WHITE SQUARE TABLE CLOCK,167.79,104,20,False,False,False,Low sales / low units
-84661B,BLACK SQUARE TABLE CLOCK,300.24,115,29,False,False,False,Low sales / low units
+84660A,WHITE STITCHED WALL CLOCK,813.29,847,44,False,False,False,High sales / high units
+84660B,BLACK STITCHED WALL CLOCK,748.36,709,42,False,False,False,High sales / high units
+84660C,PINK STITCHED WALL CLOCK,828.24,679,61,False,False,False,High sales / high units
+84661A,WHITE SQUARE TABLE CLOCK,172.75,105,21,False,False,False,Low sales / low units
+84661B,BLACK SQUARE TABLE CLOCK,305.2,116,30,False,False,False,Low sales / low units
 84661C,PINK SQUARE TABLE CLOCK,104.84,71,14,False,False,False,Low sales / low units
-84661a,WHITE SQUARE TABLE CLOCK,4.96,1,1,True,True,True,Low sales / low units
-84661b,BLACK SQUARE TABLE CLOCK,4.96,1,1,True,True,True,Low sales / low units
 84663A,GRASS HOPPER WOODEN WALL CLOCK,374.12,272,34,False,False,False,Low sales / low units
 84665,SQUARE CHERRY BLOSSOM CABINET,624.75,105,17,False,False,False,Low sales / low units
 84666,SQUARE CHERRY BLOSSOM CABINET,94.80000000000001,24,4,True,True,True,Low sales / low units
@@ -3091,7 +3030,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84705C,PINK FLOCK PHOTO FRAME,15.0,12,1,True,True,True,Low sales / low units
 84706D,CHERRY BLOSSOM TABLE CLOCK,29.599999999999998,8,4,True,True,True,Low sales / low units
 84706F,RED PEONY TABLE CLOCK,47.2,16,10,False,True,True,Low sales / low units
-84707A,SILVER JEWELLED MIRROR TRINKET TRAY,695.23,95,45,False,False,False,High sales / low units
+84707A,SILVER JEWELLED MIRROR TRINKET TRAY,695.23,95,45,False,False,False,Low sales / low units
 84707B,PINK JEWELLED MIRROR TRINKET TRAY,210.54999999999998,34,18,False,False,True,Low sales / low units
 84708B,PINK JEWELLED PHOTO FRAME,326.35,62,19,False,False,False,Low sales / low units
 84709B,PINK OVAL JEWELLED MIRROR,119.0,20,11,False,False,True,Low sales / low units
@@ -3122,12 +3061,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84773,RED ROSE AND LACE C/COVER,8.850000000000001,3,1,True,True,True,Low sales / low units
 84789,ENCHANTED BIRD PLANT CAGE,640.72,186,48,False,False,False,Low sales / low units
 84792,ENCHANTED BIRD COATHANGER 5 HOOK,3974.32,833,241,False,False,False,High sales / high units
-84795B,SUNSET CHECK HAMMOCK,1390.64,176,48,False,False,False,High sales / low units
+84795B,SUNSET CHECK HAMMOCK,1657.42,192,62,False,False,False,High sales / low units
 84795C,OCEAN STRIPE HAMMOCK,15.9,2,1,True,True,True,Low sales / low units
-84795b,SUNSET CHECK HAMMOCK,266.78,16,14,False,False,True,Low sales / low units
-84796A,PINK HAWAIIAN PICNIC HAMPER FOR 2,568.13,61,43,False,False,False,Low sales / low units
+84796A,PINK HAWAIIAN PICNIC HAMPER FOR 2,709.2399999999999,78,55,False,False,False,Low sales / low units
 84796B,BLUE SAVANNAH PICNIC HAMPER FOR 2,2393.5899999999997,256,124,False,False,False,High sales / low units
-84796a,PINK HAWAIIAN PICNIC HAMPER FOR 2,141.10999999999999,17,12,False,False,True,Low sales / low units
 84798A,PINK FOXGLOVE ARTIIFCIAL FLOWER,58.64999999999999,23,4,True,True,True,Low sales / low units
 84798B,PURPLE FOXGLOVE ARTIIFCIAL FLOWER,28.049999999999997,11,3,True,True,True,Low sales / low units
 84799,SPRIG LAVENDER ARTIFICIAL FLOWER,160.48,224,10,False,False,False,Low sales / low units
@@ -3150,7 +3087,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84809B,PINK CHRYSANTHEMUMS ART FLOWER,37.800000000000004,18,1,True,True,True,Low sales / low units
 84813,SET OF 4 DIAMOND NAPKIN RINGS,1393.79,166,38,False,False,False,High sales / low units
 84816,DANISH ROSE BEDSIDE CABINET,519.35,13,10,False,False,True,Low sales / low units
-84817,DANISH ROSE DECORATIVE PLATE,710.64,951,55,False,False,False,High sales / high units
+84817,DANISH ROSE DECORATIVE PLATE,710.64,951,55,False,False,False,Low sales / high units
 84818,DANISH ROSE PHOTO FRAME,1460.81,1423,99,False,False,False,High sales / high units
 84819,DANISH ROSE ROUND SEWING BOX,951.79,811,62,False,False,False,High sales / high units
 84820,DANISH ROSE TRINKET TRAYS,483.05,259,31,False,False,False,Low sales / low units
@@ -3182,8 +3119,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84865,NEW BAROQUE BLACK PHOTO ALBUM,146.21,27,14,False,False,True,Low sales / low units
 84870B,BLUE GEISHA GIRL,146.07999999999998,44,25,False,False,True,Low sales / low units
 84870C,GREEN GEISHA GIRL,146.05,46,28,False,False,True,Low sales / low units
-84872A,TEATIME FUNKY FLOWER BACKPACK FOR 2,450.08,40,32,False,False,True,Low sales / low units
-84872a,TEATIME FUNKY FLOWER BACKPACK FOR 2,282.15,26,21,False,False,True,Low sales / low units
+84872A,TEATIME FUNKY FLOWER BACKPACK FOR 2,732.2299999999999,66,53,False,False,False,High sales / low units
 84873A,FUNKY FLOWER PICNIC BAG FOR 4,33.9,2,2,True,True,True,Low sales / low units
 84874B,BLUE TRAVEL FIRST AID KIT,67.50999999999999,41,14,False,True,True,Low sales / low units
 84875B,GREEN SQUARE COMPACT MIRROR,203.51,131,20,False,False,False,Low sales / low units
@@ -3197,8 +3133,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84880,WHITE WIRE EGG HOLDER,2012.74,312,76,False,False,False,High sales / low units
 84881,BLUE WIRE SPIRAL CANDLE HOLDER,82.57,12,6,False,True,True,Low sales / low units
 84882,GREEN WIRE STANDING CANDLE HOLDER,157.34,38,18,False,False,True,Low sales / low units
-84884A,ANT WHITE WIRE HEART SPIRAL,1201.91,301,78,False,False,False,High sales / low units
-84884a,ANT WHITE WIRE HEART SPIRAL,317.71999999999997,38,26,False,False,True,Low sales / low units
+84884A,ANT WHITE WIRE HEART SPIRAL,1519.63,339,104,False,False,False,High sales / low units
 84898F,YELLOW FLOWERS FELT HANDBAG KIT,98.63000000000001,46,19,False,True,True,Low sales / low units
 84905,PINK BUTTERFLY CUSHION COVER,173.48,35,20,False,False,True,Low sales / low units
 84906,PINK B'FLY C/COVER W BOBBLES,123.02,35,12,False,False,True,Low sales / low units
@@ -3244,23 +3179,17 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84952C,MIRROR LOVE BIRD T-LIGHT HOLDER,255.0,144,12,False,False,False,Low sales / low units
 84963A,PINK PAINTED KASHMIRI CHAIR,171.8,4,1,True,False,True,Low sales / low units
 84963B,BLUE PAINTED KASHMIRI CHAIR,149.85000000000002,3,1,True,False,True,Low sales / low units
-84968A,SET OF 16 VINTAGE ROSE CUTLERY,3139.2999999999997,267,98,False,False,False,High sales / low units
+84968A,SET OF 16 VINTAGE ROSE CUTLERY,3264.63,272,101,False,False,False,High sales / low units
 84968B,SET OF 16 VINTAGE IVORY CUTLERY,25.5,2,2,True,True,True,Low sales / low units
 84968C,SET OF 16 VINTAGE PISTACHIO CUTLERY,3585.99,317,104,False,False,False,High sales / low units
-84968D,SET OF 16 VINTAGE RED CUTLERY,1661.47,157,55,False,False,False,High sales / low units
-84968E,SET OF 16 VINTAGE BLACK CUTLERY,1522.53,132,44,False,False,False,High sales / low units
-84968F,SET OF 16 VINTAGE SKY BLUE CUTLERY,1905.6799999999998,177,65,False,False,False,High sales / low units
-84968a,SET OF 16 VINTAGE ROSE CUTLERY,125.32999999999998,5,3,True,False,True,Low sales / low units
-84968d,SET OF 16 VINTAGE RED CUTLERY,74.88,3,3,True,True,True,Low sales / low units
-84968e,SET OF 16 VINTAGE BLACK CUTLERY,200.21,8,6,False,False,True,Low sales / low units
-84968f,SET OF 16 VINTAGE SKY BLUE CUTLERY,25.49,1,1,True,True,True,Low sales / low units
+84968D,SET OF 16 VINTAGE RED CUTLERY,1736.35,160,58,False,False,False,High sales / low units
+84968E,SET OF 16 VINTAGE BLACK CUTLERY,1722.74,140,50,False,False,False,High sales / low units
+84968F,SET OF 16 VINTAGE SKY BLUE CUTLERY,1931.1699999999998,178,66,False,False,False,High sales / low units
 84969,BOX OF 6 ASSORTED COLOUR TEASPOONS,2389.52,558,210,False,False,False,High sales / high units
-84970L,SINGLE HEART ZINC T-LIGHT HOLDER,6411.5199999999995,6064,457,False,False,False,High sales / high units
-84970S,HANGING HEART ZINC T-LIGHT HOLDER,7650.3099999999995,8879,537,False,False,False,High sales / high units
-84970l,SINGLE HEART ZINC T-LIGHT HOLDER,418.98,201,50,False,False,False,Low sales / low units
-84970s,HANGING HEART ZINC T-LIGHT HOLDER,496.49,238,66,False,False,False,Low sales / low units
+84970L,SINGLE HEART ZINC T-LIGHT HOLDER,6830.5,6265,507,False,False,False,High sales / high units
+84970S,HANGING HEART ZINC T-LIGHT HOLDER,8146.799999999999,9117,603,False,False,False,High sales / high units
+84971L,LARGE HEART FLOWERS HOOK,4.92,2,1,True,True,True,Low sales / low units
 84971S,SMALL HEART FLOWERS HOOK,1540.4499999999998,1761,172,False,False,False,High sales / high units
-84971l,LARGE HEART FLOWERS HOOK,4.92,2,1,True,True,True,Low sales / low units
 84974,S/2 ZINC HEART DESIGN PLANTERS,388.04999999999995,39,28,False,False,True,Low sales / low units
 84975,HEART SHAPED MIRROR,8.45,5,2,True,True,True,Low sales / low units
 84976,RECTANGULAR SHAPED MIRROR,446.15000000000003,512,37,False,False,False,Low sales / high units
@@ -3272,28 +3201,20 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 84985A,SET OF 72 GREEN PAPER DOILIES,59.449999999999996,41,18,False,True,True,Low sales / low units
 84987,SET OF 36 TEATIME PAPER DOILIES,4471.17,3051,334,False,False,False,High sales / high units
 84988,SET OF 72 PINK HEART PAPER DOILIES,6671.25,4311,510,False,False,False,High sales / high units
-84989A,75 GREEN FAIRY CAKE CASES,14.850000000000001,27,17,False,True,True,Low sales / low units
-84989a,75 GREEN FAIRY CAKE CASES,87.51,42,25,False,True,True,Low sales / low units
+84989A,75 GREEN FAIRY CAKE CASES,102.36,69,42,False,False,False,Low sales / low units
 84990,60 GOLD AND SILVER FAIRY CAKE CASES,1.1,2,2,True,True,True,Low sales / low units
 84991,60 TEATIME FAIRY CAKE CASES,9169.970000000001,18189,828,False,False,False,High sales / high units
 84992,72 SWEETHEART FAIRY CAKE CASES,6532.780000000001,13319,615,False,False,False,High sales / high units
-84993A,75 GREEN PETIT FOUR CASES,159.69,343,55,False,False,False,Low sales / low units
+84993A,75 GREEN PETIT FOUR CASES,186.25,375,74,False,False,False,Low sales / low units
 84993B,75 BLACK PETIT FOUR CASES,24.36,58,18,False,True,False,Low sales / low units
-84993a,75 GREEN PETIT FOUR CASES,26.56,32,19,False,True,True,Low sales / low units
-84997A,CHILDRENS CUTLERY POLKADOT GREEN,9933.880000000001,2573,260,False,False,False,High sales / high units
-84997B,CHILDRENS CUTLERY RETROSPOT RED,16045.970000000001,4214,370,False,False,False,High sales / high units
-84997C,CHILDRENS CUTLERY POLKADOT BLUE,14497.03,3783,335,False,False,False,High sales / high units
-84997D,CHILDRENS CUTLERY POLKADOT PINK,19728.2,5103,473,False,False,False,High sales / high units
-84997a,CHILDRENS CUTLERY POLKADOT GREEN,878.7399999999999,106,65,False,False,False,High sales / low units
-84997b,CHILDRENS CUTLERY RETROSPOT RED,3052.9199999999996,364,67,False,False,False,High sales / low units
-84997c,CHILDRENS CUTLERY POLKADOT BLUE,2374.4399999999996,284,62,False,False,False,High sales / low units
-84997d,CHILDRENS CUTLERY POLKADOT PINK,2657.79,319,73,False,False,False,High sales / low units
+84997A,CHILDRENS CUTLERY POLKADOT GREEN,10812.62,2679,325,False,False,False,High sales / high units
+84997B,CHILDRENS CUTLERY RETROSPOT RED,19098.89,4578,437,False,False,False,High sales / high units
+84997C,CHILDRENS CUTLERY POLKADOT BLUE,16871.47,4067,397,False,False,False,High sales / high units
+84997D,CHILDRENS CUTLERY POLKADOT PINK,22385.99,5422,546,False,False,False,High sales / high units
 85006,SET 4 NURSERY DES ROUND BOXES,57.25,55,9,False,True,False,Low sales / low units
 85008,SET OF 3 CONEY ISLAND OVAL BOXES,66.12,13,8,False,True,True,Low sales / low units
-85014A,BLACK/BLUE POLKADOT UMBRELLA,6678.72,1163,278,False,False,False,High sales / high units
-85014B,RED RETROSPOT UMBRELLA,10952.2,1910,350,False,False,False,High sales / high units
-85014a,BLACK/BLUE POLKADOT UMBRELLA,225.32000000000002,18,14,False,False,True,Low sales / low units
-85014b,RED RETROSPOT UMBRELLA,313.06,25,23,False,False,True,Low sales / low units
+85014A,BLACK/BLUE POLKADOT UMBRELLA,6904.040000000001,1181,292,False,False,False,High sales / high units
+85014B,RED RETROSPOT UMBRELLA,11265.26,1935,373,False,False,False,High sales / high units
 85015,SET OF 12 VINTAGE POSTCARD SET,1718.5400000000002,2180,143,False,False,False,High sales / high units
 85016,SET OF 6 VINTAGE NOTELETS KIT,560.11,563,42,False,False,False,Low sales / high units
 85017A,ENVELOPE 50 ROMANTIC IMAGES,13.58,16,8,False,True,True,Low sales / low units
@@ -3301,7 +3222,7 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85017C,ENVELOPE 50 CURIOUS IMAGES,26.17,49,10,False,True,True,Low sales / low units
 85018D,YULETIDE IMAGES S/6 PAPER BOXES,30.599999999999998,12,7,False,True,True,Low sales / low units
 85019A,ROMANTIC IMAGES NOTEBOOK SET,564.35,414,33,False,False,False,Low sales / high units
-85019B,BLOSSOM IMAGES NOTEBOOK SET,682.97,512,36,False,False,False,High sales / high units
+85019B,BLOSSOM IMAGES NOTEBOOK SET,682.97,512,36,False,False,False,Low sales / high units
 85019C,CURIOUS IMAGES NOTEBOOK SET,270.72,182,11,False,False,False,Low sales / low units
 85020,ROUND PINK HEART MIRROR,188.81,85,22,False,False,False,Low sales / low units
 85023B,EAU DE NILE JEWELLED PHOTOFRAME,235.35000000000002,105,13,False,False,False,Low sales / low units
@@ -3319,49 +3240,34 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85031C,CURIOUS IMAGES SCRAP BOOK SET,14.850000000000001,3,1,True,True,True,Low sales / low units
 85032A,ROMANTIC IMAGES GIFT WRAP SET,776.49,789,135,False,False,False,High sales / high units
 85032B,BLOSSOM IMAGES GIFT WRAP SET,739.99,786,133,False,False,False,High sales / high units
-85032C,CURIOUS IMAGES GIFT WRAP SET,718.5400000000001,683,140,False,False,False,High sales / high units
+85032C,CURIOUS IMAGES GIFT WRAP SET,718.5400000000001,683,140,False,False,False,Low sales / high units
 85032D,YULETIDE IMAGES GIFT WRAP SET,561.34,687,93,False,False,False,Low sales / high units
-85034A,3 GARDENIA MORRIS BOXED CANDLES,911.4,498,74,False,False,False,High sales / high units
-85034B,3 WHITE CHOC MORRIS BOXED CANDLES,1628.78,945,120,False,False,False,High sales / high units
+85034A,3 GARDENIA MORRIS BOXED CANDLES,936.27,501,77,False,False,False,High sales / high units
+85034B,3 WHITE CHOC MORRIS BOXED CANDLES,1637.07,946,121,False,False,False,High sales / high units
 85034C,3 ROSE MORRIS BOXED CANDLES,1800.0,1129,158,False,False,False,High sales / high units
-85034a,3 GARDENIA MORRIS BOXED CANDLES,24.869999999999997,3,3,True,True,True,Low sales / low units
-85034b,3 WHITE CHOC MORRIS BOXED CANDLES,8.29,1,1,True,True,True,Low sales / low units
-85035A,GARDENIA 3 WICK MORRIS BOXED CANDLE,782.3,276,81,False,False,False,High sales / low units
-85035B,CHOCOLATE 3 WICK MORRIS BOX CANDLE,1054.1,619,70,False,False,False,High sales / high units
-85035C,ROSE 3 WICK MORRIS BOX CANDLE,1760.66,1137,130,False,False,False,High sales / high units
-85035a,GARDENIA 3 WICK MORRIS BOXED CANDLE,16.94,2,2,True,True,True,Low sales / low units
-85035b,CHOCOLATE 3 WICK MORRIS BOX CANDLE,8.47,1,1,True,True,True,Low sales / low units
-85035c,ROSE 3 WICK MORRIS BOX CANDLE,8.47,1,1,True,True,True,Low sales / low units
-85036A,GARDENIA 1 WICK MORRIS BOXED CANDLE,714.35,211,60,False,False,False,High sales / low units
-85036B,CHOCOLATE 1 WICK MORRIS BOX CANDLE,581.4300000000001,361,49,False,False,False,Low sales / low units
+85035A,GARDENIA 3 WICK MORRIS BOXED CANDLE,799.24,278,83,False,False,False,High sales / low units
+85035B,CHOCOLATE 3 WICK MORRIS BOX CANDLE,1062.57,620,71,False,False,False,High sales / high units
+85035C,ROSE 3 WICK MORRIS BOX CANDLE,1769.13,1138,131,False,False,False,High sales / high units
+85036A,GARDENIA 1 WICK MORRIS BOXED CANDLE,730.93,213,61,False,False,False,High sales / low units
+85036B,CHOCOLATE 1 WICK MORRIS BOX CANDLE,589.9,362,50,False,False,False,Low sales / low units
 85036C,ROSE 1 WICK MORRIS BOXED CANDLE,1066.8600000000001,742,84,False,False,False,High sales / high units
-85036a,GARDENIA 1 WICK MORRIS BOXED CANDLE,16.58,2,1,True,True,True,Low sales / low units
-85036b,CHOCOLATE 1 WICK MORRIS BOX CANDLE,8.47,1,1,True,True,True,Low sales / low units
 85038,6 CHOCOLATE LOVE HEART T-LIGHTS,2171.26,1061,142,False,False,False,High sales / high units
-85039A,SET/4 RED MINI ROSE CANDLE IN BOWL,1010.6199999999999,704,162,False,False,False,High sales / high units
+85039A,SET/4 RED MINI ROSE CANDLE IN BOWL,1142.4299999999998,744,191,False,False,False,High sales / high units
 85039B,S/4 IVORY MINI ROSE CANDLE IN BOWL,1174.6299999999999,806,172,False,False,False,High sales / high units
 85039C,S/4 BLACK MINI ROSE CANDLE IN BOWL,265.77,305,67,False,False,False,Low sales / low units
-85039a,SET/4 RED MINI ROSE CANDLE IN BOWL,131.81,40,29,False,False,True,Low sales / low units
-85040A,S/4 PINK FLOWER CANDLES IN BOWL,1607.32,888,164,False,False,False,High sales / high units
+85040A,S/4 PINK FLOWER CANDLES IN BOWL,1712.6,920,185,False,False,False,High sales / high units
 85040B,SET/4 BLUE FLOWER CANDLES IN BOWL,229.46999999999997,137,35,False,False,False,Low sales / low units
-85040a,S/4 PINK FLOWER CANDLES IN BOWL,105.28,32,21,False,False,True,Low sales / low units
 85045,GREEN CHRISTMAS TREE STRING 20LIGHT,191.1,42,11,False,False,True,Low sales / low units
 85047,WHITE BEADED GARLAND STRING 20LIGHT,19.049999999999997,3,2,True,True,True,Low sales / low units
 85048,15CM CHRISTMAS GLASS BALL 20 LIGHTS,10910.61,1359,261,False,False,False,High sales / high units
-85049A,TRADITIONAL CHRISTMAS RIBBONS,3842.36,3001,323,False,False,False,High sales / high units
-85049B,LUSH GREENS RIBBONS,67.5,54,13,False,True,False,Low sales / low units
-85049C,ROMANTIC PINKS RIBBONS,1515.69,1215,224,False,False,False,High sales / high units
-85049D,BRIGHT BLUES RIBBONS,694.99,547,107,False,False,False,High sales / high units
-85049E,SCANDINAVIAN REDS RIBBONS,3783.61,2860,409,False,False,False,High sales / high units
-85049F,BABY BOOM RIBBONS,477.34,378,88,False,False,False,Low sales / high units
-85049G,CHOCOLATE BOX RIBBONS,1999.19,1608,258,False,False,False,High sales / high units
+85049A,TRADITIONAL CHRISTMAS RIBBONS,4655.2,3245,359,False,False,False,High sales / high units
+85049B,LUSH GREENS RIBBONS,72.42,56,15,False,True,False,Low sales / low units
+85049C,ROMANTIC PINKS RIBBONS,1518.15,1216,225,False,False,False,High sales / high units
+85049D,BRIGHT BLUES RIBBONS,699.91,549,109,False,False,False,Low sales / high units
+85049E,SCANDINAVIAN REDS RIBBONS,4144.32,2969,451,False,False,False,High sales / high units
+85049F,BABY BOOM RIBBONS,477.34,378,88,False,False,False,Low sales / low units
+85049G,CHOCOLATE BOX RIBBONS,2275.61,1721,309,False,False,False,High sales / high units
 85049H,URBAN BLACK RIBBONS,869.1,848,184,False,False,False,High sales / high units
-85049a,TRADITIONAL CHRISTMAS RIBBONS,812.84,244,36,False,False,False,High sales / low units
-85049b,LUSH GREENS RIBBONS,4.92,2,2,True,True,True,Low sales / low units
-85049c,ROMANTIC PINKS RIBBONS,2.46,1,1,True,True,True,Low sales / low units
-85049d,BRIGHT BLUES RIBBONS,4.92,2,2,True,True,True,Low sales / low units
-85049e,SCANDINAVIAN REDS RIBBONS,360.71,109,42,False,False,False,Low sales / low units
-85049g,CHOCOLATE BOX RIBBONS,276.42,113,51,False,False,False,Low sales / low units
 85053,FRENCH ENAMEL CANDLEHOLDER,3649.4900000000002,1693,317,False,False,False,High sales / high units
 85054,FRENCH ENAMEL POT W LID,1430.63,587,115,False,False,False,High sales / high units
 85055,FRENCH ENAMEL UTENSIL HOLDER,183.71,45,16,False,False,True,Low sales / low units
@@ -3372,10 +3278,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85066,CREAM SWEETHEART MINI CHEST,22594.2,1784,519,False,False,False,High sales / high units
 85067,CREAM SWEETHEART WALL CABINET,126.64999999999999,7,5,True,False,True,Low sales / low units
 85071A,BLUE CHARLIE+LOLA PERSONAL DOORSIGN,583.23,1041,111,False,False,False,Low sales / high units
-85071B,RED CHARLIE+LOLA PERSONAL DOORSIGN,684.62,1290,125,False,False,False,High sales / high units
+85071B,RED CHARLIE+LOLA PERSONAL DOORSIGN,684.62,1290,125,False,False,False,Low sales / high units
 85071C,"CHARLIE+LOLA""EXTREMELY BUSY"" SIGN",428.0,683,105,False,False,False,Low sales / high units
-85071D,CHARLIE+LOLA MY ROOM DOOR SIGN,249.48999999999998,403,84,False,False,False,Low sales / high units
-85078,SCANDINAVIAN 3 HEARTS NAPKIN RING,696.8,1932,124,False,False,False,High sales / high units
+85071D,CHARLIE+LOLA MY ROOM DOOR SIGN,249.48999999999998,403,84,False,False,False,Low sales / low units
+85078,SCANDINAVIAN 3 HEARTS NAPKIN RING,696.8,1932,124,False,False,False,Low sales / high units
 85084,HOLLY TOP CHRISTMAS STOCKING,17.0,20,7,False,True,True,Low sales / low units
 85086A,CANDY SPOT HEART DECORATION,122.08,146,50,False,False,False,Low sales / low units
 85087,CANDY SPOT CUSHION COVER,1129.99,339,125,False,False,False,High sales / low units
@@ -3388,26 +3294,21 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85096,HILDA CANDY SPOT RABBIT,109.23,25,16,False,False,True,Low sales / low units
 85099B,JUMBO BAG RED RETROSPOT,94159.81,48371,2089,False,False,False,High sales / high units
 85099C,JUMBO BAG BAROQUE BLACK WHITE,28047.74,13900,933,False,False,False,High sales / high units
-85099F,JUMBO BAG STRAWBERRY,32495.59,17237,812,False,False,False,High sales / high units
-85099f,JUMBO BAG STRAWBERRY,232.05999999999997,46,10,False,False,True,Low sales / low units
+85099F,JUMBO BAG STRAWBERRY,32727.65,17283,822,False,False,False,High sales / high units
 85103,SILVER T-LIGHT SETTING,924.29,143,28,False,False,False,High sales / low units
 85104,SILVER GLASS T-LIGHT SET,525.75,201,17,False,False,False,Low sales / low units
 85106,CUT GLASS HEXAGON T-LIGHT HOLDER,1142.31,649,20,False,False,False,High sales / high units
 85107,CUT GLASS T-LIGHT HOLDER OCTAGON,541.39,249,27,False,False,False,Low sales / low units
 85109,PINK BOUDOIR T-LIGHT HOLDER,10.2,12,1,True,True,True,Low sales / low units
 85111,SILVER GLITTER FLOWER VOTIVE HOLDER,437.59,1409,57,False,False,False,Low sales / high units
-85114A,BLACK ENCHANTED FOREST PLACEMAT,1105.21,649,56,False,False,False,High sales / high units
-85114B,IVORY ENCHANTED FOREST PLACEMAT,902.49,477,77,False,False,False,High sales / high units
-85114C,RED ENCHANTED FOREST PLACEMAT,920.2199999999999,516,75,False,False,False,High sales / high units
-85114a,BLACK ENCHANTED FOREST PLACEMAT,161.70000000000002,49,15,False,False,True,Low sales / low units
-85114b,IVORY ENCHANTED FOREST PLACEMAT,118.86000000000001,36,14,False,False,True,Low sales / low units
-85114c,RED ENCHANTED FOREST PLACEMAT,534.66,162,35,False,False,False,Low sales / low units
+85114A,BLACK ENCHANTED FOREST PLACEMAT,1266.91,698,71,False,False,False,High sales / high units
+85114B,IVORY ENCHANTED FOREST PLACEMAT,1021.35,513,91,False,False,False,High sales / high units
+85114C,RED ENCHANTED FOREST PLACEMAT,1454.8799999999999,678,110,False,False,False,High sales / high units
 85115B,S/4 BLACK DISCO PARTITION PANEL,24.869999999999997,3,1,True,True,True,Low sales / low units
 85116,BLACK CANDELABRA T-LIGHT HOLDER,1106.88,941,89,False,False,False,High sales / high units
 85118,HEART T-LIGHT HOLDER,144.52,146,10,False,False,False,Low sales / low units
 85119,WATERING CAN SINGLE HOOK PISTACHIO,3.36,1,1,True,True,True,Low sales / low units
-85123A,WHITE HANGING HEART T-LIGHT HOLDER,104462.75,37641,2198,False,False,False,High sales / high units
-85123a,WHITE HANGING HEART T-LIGHT HOLDER,1952.4799999999998,292,67,False,False,False,High sales / low units
+85123A,WHITE HANGING HEART T-LIGHT HOLDER,106415.23,37933,2265,False,False,False,High sales / high units
 85124B,BLUE JUICY FRUIT PHOTO FRAME,264.06,93,39,False,False,False,Low sales / low units
 85124C,GREEN JUICY FRUIT PHOTO FRAME,261.89,94,39,False,False,False,Low sales / low units
 85125,SMALL ROUND CUT GLASS CANDLESTICK,760.39,161,33,False,False,False,High sales / low units
@@ -3424,12 +3325,9 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85131B,BEADED CRYSTAL HEART GREEN ON STICK,521.11,623,172,False,False,False,Low sales / high units
 85131C,BEADED CRYSTAL HEART BLUE ON STICK,178.85,193,50,False,False,False,Low sales / low units
 85131D,BEADED CRYSTAL HEART PINK ON STICK,725.26,850,206,False,False,False,High sales / high units
-85132A,CHARLIE + LOLA BISCUITS TINS,1561.77,545,110,False,False,False,High sales / high units
-85132B,CHARLIE AND LOLA TABLE TINS,1156.1699999999998,529,75,False,False,False,High sales / high units
-85132C,CHARLIE AND LOLA FIGURES TINS,3562.3199999999997,1520,211,False,False,False,High sales / high units
-85132a,CHARLIE + LOLA BISCUITS TINS,92.19999999999999,8,8,False,True,True,Low sales / low units
-85132b,CHARLIE AND LOLA TABLE TINS,74.60999999999999,9,9,False,True,True,Low sales / low units
-85132c,CHARLIE AND LOLA FIGURES TINS,24.869999999999997,3,3,True,True,True,Low sales / low units
+85132A,CHARLIE + LOLA BISCUITS TINS,1653.97,553,118,False,False,False,High sales / high units
+85132B,CHARLIE AND LOLA TABLE TINS,1230.78,538,84,False,False,False,High sales / high units
+85132C,CHARLIE AND LOLA FIGURES TINS,3587.19,1523,214,False,False,False,High sales / high units
 85135A,YELLOW DRAGONFLY HELICOPTER,151.05,19,8,False,False,True,Low sales / low units
 85135B,BLUE DRAGONFLY HELICOPTER,524.5500000000001,65,45,False,False,False,Low sales / low units
 85135C,RED DRAGONFLY HELICOPTER,856.38,106,67,False,False,False,High sales / low units
@@ -3444,9 +3342,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85152,HAND OVER THE CHOCOLATE SIGN,15928.730000000001,8246,677,False,False,False,High sales / high units
 85159A,"BLACK TEA,COFFEE,SUGAR JARS",783.3499999999999,453,47,False,False,False,High sales / high units
 85159B,"WHITE TEA,COFFEE,SUGAR JARS",1134.5,622,59,False,False,False,High sales / high units
-85160A,WHITE BIRD GARDEN DESIGN MUG,7.5,6,1,True,True,True,Low sales / low units
+85160A,WHITE BIRD GARDEN DESIGN MUG,23.63,7,2,True,True,True,Low sales / low units
 85160B,BLACK BIRD GARDEN DESIGN MUG,62.239999999999995,106,16,False,True,False,Low sales / low units
-85160a,WHITE BIRD GARDEN DESIGN MUG,16.13,1,1,True,True,True,Low sales / low units
 85161,ACRYLIC GEOMETRIC LAMP,568.65,35,20,False,False,True,Low sales / low units
 85163A,WHITE BAROQUE WALL CLOCK,559.0,66,32,False,False,False,Low sales / low units
 85163B,BLACK BAROQUE WALL CLOCK,783.68,84,36,False,False,False,High sales / low units
@@ -3467,15 +3364,13 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85176,SEWING SUSAN 21 NEEDLE SET,880.4699999999999,918,172,False,False,False,High sales / high units
 85177,BASKET OF FLOWERS SEWING KIT,644.2099999999999,812,63,False,False,False,Low sales / high units
 85178,VICTORIAN SEWING KIT,2822.58,2518,140,False,False,False,High sales / high units
-85179A,GREEN BITTY LIGHT CHAIN,380.79,193,59,False,False,False,Low sales / low units
+85179A,GREEN BITTY LIGHT CHAIN,383.25,194,60,False,False,False,Low sales / low units
 85179C,PINK BITTY LIGHT CHAIN,201.31,106,36,False,False,False,Low sales / low units
-85179a,GREEN BITTY LIGHT CHAIN,2.46,1,1,True,True,True,Low sales / low units
 85180A,RED HEARTS LIGHT CHAIN,1042.66,503,63,False,False,False,High sales / high units
 85180B,PINK HEARTS LIGHT CHAIN,587.2,271,48,False,False,False,Low sales / low units
 85183A,CHARLIE & LOLA WASTEPAPER BIN BLUE,852.04,667,86,False,False,False,High sales / high units
 85183B,CHARLIE & LOLA WASTEPAPER BIN FLORA,1323.37,996,118,False,False,False,High sales / high units
-85184C,S/4 VALENTINE DECOUPAGE HEART BOX,2985.84,1652,193,False,False,False,High sales / high units
-85184c,SET 4 VALENTINE DECOUPAGE HEART BOX,11.58,2,2,True,True,True,Low sales / low units
+85184C,S/4 VALENTINE DECOUPAGE HEART BOX,2997.42,1654,195,False,False,False,High sales / high units
 85185B,PINK HORSE SOCK PUPPET,900.3900000000001,297,71,False,False,False,High sales / low units
 85185D,FROG SOCK PUPPET,44.25000000000001,15,8,False,True,True,Low sales / low units
 85186A,EASTER BUNNY GARLAND OF FLOWERS,273.64,567,79,False,False,False,Low sales / high units
@@ -3513,10 +3408,8 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 85230E,STRAWBRY SCENTED VOTIVE CANDLE,267.45,1101,24,False,False,False,Low sales / high units
 85230F,JASMINE VOTIVE CANDLE,90.33999999999999,338,12,False,True,False,Low sales / low units
 85230G,ORANGE VOTIVE CANDLE,257.03999999999996,1032,25,False,False,False,Low sales / high units
-85231B,CINAMMON SET OF 9 T-LIGHTS,777.5799999999999,868,151,False,False,False,High sales / high units
-85231G,ORANGE SCENTED SET/9 T-LIGHTS,501.27,594,81,False,False,False,Low sales / high units
-85231b,CINAMMON SET OF 9 T-LIGHTS,4.92,3,3,True,True,True,Low sales / low units
-85231g,ORANGE SCENTED SET/9 T-LIGHTS,9.78,6,6,False,True,True,Low sales / low units
+85231B,CINAMMON SET OF 9 T-LIGHTS,782.5,871,154,False,False,False,High sales / high units
+85231G,ORANGE SCENTED SET/9 T-LIGHTS,511.04999999999995,600,87,False,False,False,Low sales / high units
 85232A,SET/3 POLKADOT STACKING TINS,389.55,78,29,False,False,False,Low sales / low units
 85232B,SET OF 3 BABUSHKA STACKING TINS,1356.3,274,13,False,False,False,High sales / low units
 85232D,SET/3 DECOUPAGE STACKING TINS,992.5200000000001,193,69,False,False,False,High sales / low units
@@ -3812,12 +3705,10 @@ StockCode,Description,Sales,Units,Invoices,Rare_5_Invoices,Low_Sales_100,Low_Uni
 90182C,BLACK 3 BEAD DROP EARRINGS,40.96,14,9,False,True,True,Low sales / low units
 90183A,AMBER DROP EARRINGS W LONG BEADS,117.24000000000001,40,23,False,False,True,Low sales / low units
 90183B,AMETHYST DROP EARRINGS W LONG BEADS,61.08,21,17,False,True,True,Low sales / low units
-90183C,BLACK DROP EARRINGS W LONG BEADS,26.15,9,9,False,True,True,Low sales / low units
-90183c,BLACK DROP EARRINGS W LONG BEADS,2.9,1,1,True,True,True,Low sales / low units
+90183C,BLACK DROP EARRINGS W LONG BEADS,29.05,10,10,False,True,True,Low sales / low units
 90184A,AMBER CHUNKY BEAD BRACELET W STRAP,117.73,13,9,False,False,True,Low sales / low units
 90184B,AMETHYST CHUNKY BEAD BRACELET W STR,297.94,33,21,False,False,True,Low sales / low units
-90184C,BLACK CHUNKY BEAD BRACELET W STRAP,190.51999999999998,21,17,False,False,True,Low sales / low units
-90184c,BLACK CHUNKY BEAD BRACELET W STRAP,9.15,1,1,True,True,True,Low sales / low units
+90184C,BLACK CHUNKY BEAD BRACELET W STRAP,199.67,22,18,False,False,True,Low sales / low units
 90185A,AMBER DIAMANTE EXPANDABLE RING,131.03,31,13,False,False,True,Low sales / low units
 90185B,AMETHYST DIAMANTE EXPANDABLE RING,97.02,23,12,False,True,True,Low sales / low units
 90185C,BLACK DIAMANTE EXPANDABLE RING,110.09,26,10,False,False,True,Low sales / low units
@@ -3907,10 +3798,10 @@ DCGS0070,CAMOUFLAGE DOG COLLAR,12.72,1,1,True,True,True,Low sales / low units
 DCGS0076,SUNJAR LED NIGHT NIGHT LIGHT,48.39,3,2,True,True,True,Low sales / low units
 DCGSSBOY,BOYS PARTY BAG,150.54999999999998,47,11,False,False,True,Low sales / low units
 DCGSSGIRL,GIRLS PARTY BAG,144.43,47,13,False,False,True,Low sales / low units
+GIFT_0001_10,DOTCOMGIFTSHOP GIFT VOUCHER £10.00,74.97,9,8,False,True,True,Low sales / low units
+GIFT_0001_20,DOTCOMGIFTSHOP GIFT VOUCHER £20.00,167.05,10,9,False,False,True,Low sales / low units
+GIFT_0001_30,DOTCOMGIFTSHOP GIFT VOUCHER £30.00,175.53,7,7,False,False,True,Low sales / low units
+GIFT_0001_40,DOTCOMGIFTSHOP GIFT VOUCHER £40.00,100.69999999999999,3,3,True,False,True,Low sales / low units
+GIFT_0001_50,DOTCOMGIFTSHOP GIFT VOUCHER £50.00,167.56,4,4,True,False,True,Low sales / low units
 PADS,PADS TO MATCH ALL CUSHIONS,0.003,3,3,True,True,True,Low sales / low units
 S,SAMPLES,63.05,2,2,True,True,True,Low sales / low units
-gift_0001_10,DOTCOMGIFTSHOP GIFT VOUCHER £10.00,74.97,9,8,False,True,True,Low sales / low units
-gift_0001_20,DOTCOMGIFTSHOP GIFT VOUCHER £20.00,167.05,10,9,False,False,True,Low sales / low units
-gift_0001_30,DOTCOMGIFTSHOP GIFT VOUCHER £30.00,175.53,7,7,False,False,True,Low sales / low units
-gift_0001_40,DOTCOMGIFTSHOP GIFT VOUCHER £40.00,100.69999999999999,3,3,True,False,True,Low sales / low units
-gift_0001_50,DOTCOMGIFTSHOP GIFT VOUCHER £50.00,167.56,4,4,True,False,True,Low sales / low units
